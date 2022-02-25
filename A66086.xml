@@ -1,0 +1,1373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beatitas Britanniæ, or, King Charles the Second, Englands beatituded as preached to the incorporation of the honour of Eay, in the county of Suffolk, March 31, 1661, being the Lords Day before their election of Burgesses, and the week before the choice of knights for the county / by Edward Willian ..</title>
+            <author>Willan, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66086</idno>
+            <idno type="STC">Wing W2260</idno>
+            <idno type="STC">ESTC R98</idno>
+            <idno type="EEBO-CITATION">12623840</idno>
+            <idno type="OCLC">ocm 12623840</idno>
+            <idno type="VID">64604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 969:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Beatitas Britanniæ, or, King Charles the Second, Englands beatituded as preached to the incorporation of the honour of Eay, in the county of Suffolk, March 31, 1661, being the Lords Day before their election of Burgesses, and the week before the choice of knights for the county / by Edward Willian ..</title>
+                  <author>Willan, Edward.</author>
+               </titleStmt>
+               <extent>40, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64604:1" rendition="simple:additions"/>
+            <p>Beatitas Britanniae; Or, KING CHARLES The SECOND, ENGLANDS BEATITUDE.</p>
+            <p>
+               <hi>AS</hi> reached to the Incorporation of the HONOUR of EAY, in the County of <hi>Suffolk, March</hi> 31. 1661. being the Lords Day before their Election of Burgeſſes, and the Week be<g ref="char:EOLhyphen"/>fore the Choice of Knights for the County.</p>
+            <p>By EDWARD WILLAN Vicar of <hi>Hoxne</hi> in <hi>Suffolk.</hi>
+            </p>
+            <p>Sen. Trag.</p>
+            <p>
+               <hi>Decet tim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri Caeſarem: at plus diligi.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John W<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ams</hi> at the <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-yard 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64604:2"/>
+            <pb n="3" facs="tcp:64604:2"/>
+            <head>To the Right HONOURABLE HENRY HOWARD, Brother to the moſt Noble EARLE And LORD-LIEUTENANT of SUFFOLK.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is to God we live engaged for the bleſſing of a King ſo good, he made him good, he made him King, and all his ſubjects bleſſed in him; <hi>fortunatos nimium bona ſi</hi>
+               <note place="margin">Virgil.</note> 
+               <hi>ſua norint.</hi> Yet to your good HOONU<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I ſtand for ever obliged alſo, for
+<pb n="4" facs="tcp:64604:3"/> the moſt early intimations of the Bleſſing, with the bleſſeful repreſentations of his Royal good<g ref="char:EOLhyphen"/>neſſe. It was a favour like your ſelf, Right NO<g ref="char:EOLhyphen"/>BLE, a very ray of your own Nobleneſſe, to be a <hi>Phoſphorus</hi> then to one ſo much benighted with anxietudes for that long abſence of our <hi>Phaebus.</hi> It is nothing now to be ſhown the day-light of our glorious Day-ſtar, it being of his eſſence ſo to<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Syneſ.</hi> de Regno. a <hi>Macroh.</hi>
+               </note> ſhine. As <hi>Syneſius</hi> ſaid of that <hi>Light</hi> which <hi>rules by Day;</hi> that <hi>King of Stars,</hi> the Day making Sun. But in that ſaddeſt night to ſhew his luciflu<g ref="char:EOLhyphen"/>ous irradiations, and to elongate the beams of his glorious luſtre to ſuch a diſtance as <hi>Hoxne</hi> was ſome<g ref="char:EOLhyphen"/>thing indeed. Few or none would repreſent him rightly, as your Honour did, before the ſmilings of that <hi>Aurora,</hi> at his riſing from the neather world. And that welcome day brake firſt from your pre<g ref="char:EOLhyphen"/>enlightened ſelf in theſe obſcurer parts. Yea <hi>ſub no<g ref="char:EOLhyphen"/>cte ſilenti,</hi> your ſofteſt ſyllables of ſuch a day ap<g ref="char:EOLhyphen"/>proaching made me ſoon <hi>rejoyce in hope,</hi> and in ſuch hope as made me <hi>not aſhamed,</hi> nor yet afraid to awaken others, and bid them put on their loy<g ref="char:EOLhyphen"/>alties<note place="margin">Virgil.</note> again, ſo long laid off. Yea thoſe twi-light hopes of having a King again, our own King, and
+<pb n="5" facs="tcp:64604:3"/> he ſuch a King, ſoon turned darker ſayings, and <hi>Pulpit Aenigmaes</hi> into broad day light expreſſions, <hi>Riddles</hi> of danger to <hi>Readings</hi> of happy delive<g ref="char:EOLhyphen"/>rance, <hi>Apoſiop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſis</hi> to <hi>Pleonaſmus, ſic ſolet laetitia</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Greg.</note> 
+               <hi>arcana mentis aperire.</hi> I could not but deem it an offence to the <hi>King of kings</hi> not to preach my conſtant Auditors into reſolves of open loyalty, or not to preſſe all others, whereever I came to pray for the bleſſing of ſuch a Sovereign, and his moſt expetible Reſtauration. No duty ſeemed more incumbent, then the undeceiving of the ſeduced Many, nor any <hi>word of exhortation</hi> more in ſeaſon, then <hi>Reddite Caeſari quae Caeſaris ſunt.</hi> Nor did any find better liking with the beſt, then arguments of that complexion. I cannot for<g ref="char:EOLhyphen"/>get the noble favours, that one Sermon, for <hi>Gods own government,</hi> as the beſt, did find with all the moſt honourable loyalties of <hi>Audley End,</hi> for the Arguments ſake, and for the righteſt deſignati<g ref="char:EOLhyphen"/>ons of it. For that was preached to prepare the hearers for the happineſſe of a King, this to make its hearers ſee their happineſſe in ſuch a King. It is a Sermon of happineſſe, and the happineſſe of the Sermon it will be to have your Honours tute<g ref="char:EOLhyphen"/>lation.
+<pb n="6" facs="tcp:64604:4"/> Be pleaſed to read your intereſt in <hi>Eng<g ref="char:EOLhyphen"/>lands Beatitude.</hi> And the God of all Beatitudes and Honours bleſſe your Honour with Beati<g ref="char:EOLhyphen"/>tudes both laſting and everlaſting, it is and ſhall be the Prayer of</p>
+            <closer>
+               <signed>Yeur Honours moſt heartily devoted as obliged Servant. EDWARD WILLAN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="7" facs="tcp:64604:4"/>
+            <head>ENGLANDS BEATITUDE</head>
+            <epigraph>
+               <bibl>Eccleſ. 10. 17.</bibl>
+               <q>Bleſſed art thou, O Land, when thy King is the ſons of Nobles, and thy Princes eat in due ſeaſon, for ſtrength, and not for drnnkenneſſe.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is the <hi>Deſire</hi> of <note n="a" place="margin">
+                  <hi>Pet Lom.</hi> ſent. i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 4. Diſtin. 49. <hi>Aquin.</hi> ſum. 12. q. 2. ar. 7. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> in Ho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> all Men to be <hi>bleſſed,</hi> but not the endeavours. And it is the endeavour of ſome to be bleſſed, but not by light means. And ſome be bleſſed without their endeavors, but will not rightly underſtand it. God bleſ<g ref="char:EOLunhyphen"/>ſes them, as he bleſſes all the Land, but they can hardly deem it a bleſſing, or dain to bleſſe him for it, becauſe not what their <hi>fanatick</hi> Croſſe-grain'd ſouls deſired. Their minds were to bleſſe themſelves with that <hi>National <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſe,</hi> the want of a King. But God hath croſſed their minds with a <hi>National bleſſe,</hi> even this of my Text. And bleſſed be his Name for ever. <hi>Let all that love the Lord ſay ſo,</hi> though o<g ref="char:EOLhyphen"/>thers will <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> We are bound to bleſſe the Lord, and <hi>rejoyce in his mercy,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ugh ſome repine and pine away to ſee <hi>God truly good to this ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rael.</hi> We can do no leſſe, to prove <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſelves <hi>true ſons of the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and loyal ſubjects. Nor they
+<pb n="8" facs="tcp:64604:5"/> much more to proclaim themſelves right <hi>ſons of Belial,</hi> very Malignants, <hi>whoſe eyes are</hi> 
+               <note n="a" place="margin">Deut. 13. 13. a Chron. 13. 7. Matth. 20. 15. Prov. 25. 11. Ar. Mont. Interpr.</note> 
+               <hi>therefore evil,</hi> becauſe that God is good to <hi>England,</hi> and hath bleſſed it according to this Text, <hi>Bleſſed art thou, O Land, when thy King,</hi> &amp;c.</p>
+            <p>
+               <hi>Verbum dictum ſuper rotis ſuis,</hi> as it is in the ſacred <hi>Adage, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> word in due ſeaſon,</hi> and fit to ſeaſon this, or any Aſſembly, a ſingle aſſertion with a double condition. <hi>Bleſſed art thou, O Land,</hi> that's the aſſertion: <hi>when thy King is the ſon of Nobles</hi> there's the firſt condition, <hi>And thy Princes eat in due ſeaſon, for ſtrength, and not for drunkenneſſe,</hi> there's the ſecond. On theſe two conditions hangs all the certainty of the aſſertion, and to aſcertain the Land to be bleſſed, we need but aſcertain theſe two conditions of a bleſſed Land, when it may be tru<g ref="char:EOLhyphen"/>ly ſaid, as truly it may, <hi>Rex tuus natus clariſſimis: Thy King i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſon of Nobles, and thy Princes eat in due ſeaſon, for ſtrength, and not for drunkenneſſe.</hi> It may as truly be ſaid, <hi>beata te<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bleſſed art thou, O Land,</hi> Any Land may be ſo ſtiled, that i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo conditioned, and ſo may <hi>England</hi> now as well as any. I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtead of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ata terra, bleſſed art thou, O Land,</hi> it may be ſaid, <hi>beata Britannia,</hi> bleſſed art thou, O <hi>England, Thy King is th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſon of Nobles,</hi> &amp;c.</p>
+            <p>But before I diſcuſſe theſe conditions, that ſpeak a Lan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſsed, let me diſcloſe the bleſsedneſs beſpoken on the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conditions. <hi>Beataterra,</hi> the ſenſe of <hi>beata</hi> is hinted by terr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> A bleſsed Land, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, bleſſed of it ſelf is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could it have ſtood by it ſelf, had been dubious, but bei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> adjected to the <hi>Subſtantive Land,</hi> hath ſingled out ſome cer<g ref="char:EOLhyphen"/>tain ſignificance, and can import none other <hi>Beati<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de,</hi> b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what befits a <hi>Land, bleſſed art thou, O Land,</hi> figuratively ſpo<g ref="char:EOLhyphen"/>ken, <hi>locus pro incolis,</hi> the Land for the Inhabitants, by a <hi>Mel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nymy of the ſubject;</hi> yet not intending <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but National<note place="margin">Pſal. 1. 1. 32. 2. Rom. 1. 25. 9. 5.</note> bleſſedneſſe to them.</p>
+            <p>In Scriptures we read of a <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Land,</hi> of a <hi>bleſſed ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="9" facs="tcp:64604:5"/> and of <hi>God bleſſed ever,</hi> but muſt not think them bleſſed all<note place="margin">Pſal. 1. 1. 32. 2. Rom. 1. 25. 9. 5.</note> one way, or with one kind of bleſſedneſſe: they be three be<g ref="char:EOLhyphen"/>atitudes, and all of ſeveral ſpecies; that of a Land very good, that of man much better, but that of God infinitely beſt. The bleſſedneſſe of God is the greateſt and higheſt good, that of men next, that of a Land <hi>in ſuo genere,</hi> leaſt and low<g ref="char:EOLhyphen"/>eſt; for <hi>beatus homo</hi> is more in its proper ſenſe then <hi>beata ter<g ref="char:EOLhyphen"/>ra,</hi> but <hi>benedictus Dominus</hi> more then both. God is bleſſed of man, man of God, the Land of both: yea, God is bleſſed of man, and of himſelf too without man, and man is bleſſed, but not of himſelf without God, but of God, and not with<g ref="char:EOLhyphen"/>out himſelf, and the Land is bleſsed of God and man, or of God by man.</p>
+            <p>Gods bleſsedneſſe is firſt, and he is firſt bleſſed of himſelf,<note place="margin">
+                  <hi>S.</hi> Auguſt, <hi>Supporta. par. 3. c.</hi> 2. Anſelm. <hi>Meditat.</hi> lib. 1. cap. 2.</note> 
+               <hi>ſibi ſufficiens,</hi> ſaith S. <hi>Auſtine,</hi> ſelf ſufficient. Bleſſedneſſe it ſelf, and the fountain of bleſſings: <hi>fons vivus,</hi> ſaith <hi>Anſel<g ref="char:EOLhyphen"/>mus,</hi> an ever flowing and an overflowing fountain, from him all bleſſedneſſe flows to perſons and Nations, and to him ſhould all their bleſſings return as riverets and flouds of wa<g ref="char:EOLhyphen"/>ter<note place="margin">Scalig. <hi>con<g ref="char:EOLhyphen"/>tra</hi> Carda. <hi>Exerc.</hi> 46<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> to the main, from whence, as <hi>Scaliger</hi> notes, they borrow beginnings. By him it is that <hi>man</hi> is <hi>beatus,</hi> and a <hi>Land beata,</hi> and by both ſhould he be <hi>benedictus,</hi> bleſſed of man, and of men for being ſo of himſelf, and for bleſſing them. But he is not bleſsed of them, as they are of him. Mans bleſſing of God is merely Declarative, but his bleſſing of man is more. Man does not make, but only ſpeak God bleſsed, and ſuch a ſpeaking of him ſo, addes nothing to his own ſelf-bleſsed<g ref="char:EOLhyphen"/>neſs. God is not the leſſe bleſſed indeed, though man bleſſes him not: but man is, if God bleſſes not him. Man is not as God, of himſeif bleſſed, nor can he be: but God bleſſes him by communicating bleſſedneſſe unto him. Gods meer ſpeak<g ref="char:EOLhyphen"/>ing of any man bleſſed, makes him bleſſed: as <hi>Aquinas</hi> well obſerves, his <hi>fiat</hi> does it, nor can it be without him. He is <hi>vi<g ref="char:EOLhyphen"/>ta
+<pb n="10" facs="tcp:64604:6"/> beati hominiis,</hi> ſaith S. <hi>Auſtine,</hi> the life of the bleſſed man,<note place="margin">S. Auguſt. <hi>de C<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>itate Dei.</hi> l. 19.</note> his bleſſed life. <hi>Summum bonum,</hi> that makes it life and bleſ<g ref="char:EOLhyphen"/>ſed. Now the more man enjoyes him, the more he joyes in him, and his fulneſſe of joy will be in his fulleſt enjoying of<note place="margin">Idem <hi>Con<g ref="char:EOLhyphen"/>feſſ. lib. 12.</hi>
+               </note> him, but ſo we ſhall not be bleſſed of him without our ſelves. He that made us without our ſelves, will not ſave us without<note place="margin">Id. <hi>de Tri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it.</hi>
+               </note> our ſelves, as St. <hi>Auſtine</hi> well and truly. It is indeed <hi>by Grace we are ſaved,</hi> but not without <hi>cooperating Grace,</hi> as that <hi>orna<g ref="char:EOLhyphen"/>ment</hi>
+               <note place="margin">Epheſ. 2. 5.</note> of <hi>Hippo</hi> calls it, we muſt be workers together with God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the Apoſtle, and ſo <hi>work out our own ſalva<g ref="char:EOLhyphen"/>tion</hi>
+               <note place="margin">2 Cor. 6. 1. Thil. 2. 12.</note> 
+               <hi>with fear and trembling.</hi> Though it be with reſpect to <hi>ſa<g ref="char:EOLhyphen"/>ving Graces,</hi> that men be ſtiled <hi>beati,</hi> yet not ſo much to their having as their uſing of them: as <hi>beati immaculati, bleſſed are the undefiled in the way, who walk in the Law of the Lord. Bleſ<g ref="char:EOLhyphen"/>ſed are they that keep his Teſtimonies, that ſeek him with the whole heart.</hi> Pſal. 119. 1, 2. where <hi>bleſſed</hi> is twice aſcribed to the uſing of ſuch graces, and that bleſſedneſſe of <hi>another Nature,</hi> and higher worth then this in my Text, that <hi>ſpiritu<g ref="char:EOLhyphen"/>al,</hi> this <hi>temporal.</hi> Yet this is of worth too, yea of much worth, worth my pains in preaching, and yours in hearing, worth all mens prayers, when they want it, and all their thanks and praiſes when they have it, as, God be praiſed,<note place="margin">
+                  <hi>Antecellens <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m ibus e<g ref="char:EOLhyphen"/>ruditione &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>opien<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ia.</hi> Ar<g ref="char:EOLhyphen"/>quer. Dicti<g ref="char:EOLhyphen"/>onar. The<g ref="char:punc">▪</g> 1 Kings 4. 29, 30, 31.</note> now they have. This well inſpired Preacher, <hi>Solomon</hi> him<g ref="char:EOLhyphen"/>ſelf, eſteemed it an <hi>Argument</hi> worthy of himſelf, ſo did the <hi>Holy Ghoſt</hi> in putting it into the <hi>pen</hi> of ſuch an <hi>Amanuenſis.</hi> yet it is but terrene bleſſedneſſe, a temporal benefit, the bleſ<g ref="char:EOLhyphen"/>ſedneſſe of a Land, <hi>Terra beata, bleſſed art thou, O Land.</hi>
+            </p>
+            <p>Bleſſed of God and man, or of God by man, for God gives the man, and the men by whom it is bleſſed. <hi>By him</hi>
+               <note place="margin">Prov. 8. 15.</note> 
+               <hi>Kings reign,</hi> and Princes have felicifying vertues, as that of <hi>Temperance, to eat in due ſeaſon.</hi> When ſuch are <hi>beati,</hi> the Land is <hi>beata,</hi> bleſsed in them, and bleſsed by them, or for them. Their <hi>bleſſedneſſe ſpiritual</hi> conduceth much to that of
+<pb n="11" facs="tcp:64604:6"/> the Land, which is but <hi>temporal,</hi> meer <hi>civill happineſs,</hi> yet may help to render ſome more then civilly happy. But not to mention what may be, it is National bleſsedneſs, and muſt be anſwered with National thankfulneſs. We muſt ac<g ref="char:EOLhyphen"/>knowledge Gods bleſſing in it, which is our way of bleſſing God, as ſaith <hi>Aquinas.</hi> Now to bleſs him ſo, let us reaſ<g ref="char:EOLhyphen"/>ſume<note place="margin">Benedic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re nostrum, eſt benefici <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> e<g ref="char:EOLhyphen"/>jus agnoſce<g ref="char:EOLhyphen"/>re. <hi>Aquin.</hi> Tom. 13.</note> the conſideration of the two conditions: the <hi>first</hi> con<g ref="char:EOLunhyphen"/>cerns the <hi>King,</hi> as ſupream: the <hi>ſecond</hi> his miniſters, here ſti<g ref="char:EOLhyphen"/>led <hi>Princes,</hi> as ſubordinate. As touching the King, it is conditioned that he be <hi>the ſon of Nobles;</hi> as touching the Princes, that they <hi>eat in due ſeaſon, for ſtrength, and not for drunkenneſs,</hi> In each condition obſerve twice two conſide<g ref="char:EOLhyphen"/>rables, <hi>firſt,</hi> two and two <hi>ex parte Kegis,</hi> concerning the King, and then as many again <hi>ex parte Principum,</hi> four and four in both, all <hi>gradual Mediums</hi> to National bleſsedneſs, or to the perfection of it, ſee them in order, and <hi>firſt</hi> in reference to the King theſe four.</p>
+            <list>
+               <item>1. That the Land has <hi>a King.</hi>
+               </item>
+               <item>2. That it has <hi>but one King,</hi> it is <hi>Rex,</hi> not <hi>Reges</hi> in the con<g ref="char:EOLhyphen"/>dition.</item>
+               <item>3. That it has <hi>its own King, Rex tuus,</hi> thy King.</item>
+               <item>4. That it has him <hi>by ſucceſſion,</hi> as deſcended from the race of Kings, <hi>filius candidorum, the ſon of Nobles.</hi>
+                  <note place="margin">Tantum ci<g ref="char:EOLhyphen"/>bi pot usque ſumun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, quant<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vi<g ref="char:EOLhyphen"/>ribus reſici<g ref="char:EOLhyphen"/>endis ſuffi<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at, reli<g ref="char:EOLhyphen"/>quum vero tempus o<g ref="char:EOLhyphen"/>mne fideli<g ref="char:EOLhyphen"/>ter Reipub. impendunt. <hi>Anton. Corran.</hi> in locum.</note>
+               </item>
+            </list>
+            <p>
+               <hi>Secondly,</hi> in reference to the <hi>Judges</hi> and <hi>Magiſtrates,</hi> and other <hi>Worthies</hi> of the Land, here honoured with the ſtile of <hi>Princes,</hi> theſe four.</p>
+            <list>
+               <item>1. That there <hi>be Princes</hi> in the Land.</item>
+               <item>2. That they be <hi>Princes of the Land, Principes tui,</hi> thy Prin<g ref="char:EOLhyphen"/>ces.</item>
+               <item>3. That they be <hi>ſober perſons,</hi> ſuch as <hi>eat in due ſeaſon<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <item>4. That they be of <hi>publick ſpirits,</hi> as publick perſons ought to be, and aim <hi>at ſtrength, not drunkenneſs</hi> in eating. At ſtrength to doe their office, and ſerve their Countrey, not
+<pb n="12" facs="tcp:64604:7"/> at Drunkenneſs to debauch their Honours, and ſerve the Devil.</item>
+            </list>
+            <p>In thoſe articles which refer to the King, we may ſee what ſhould be, and is in <hi>England,</hi> to make it bleſsed. In theſe which refer to the Princes, what is, or ſhould be, to com<g ref="char:EOLhyphen"/>pleat the bleſſing. To <hi>have a King,</hi> and <hi>but one King,</hi> and he both <hi>the right King,</hi> and <hi>a right King,</hi> is but what ſhould be, and is, in <hi>England,</hi> the Lord be bleſsed, to make it bleſsed, and to <hi>have Princes in the Land,</hi> Peers, and perſons of worth in <hi>Truſt</hi> and <hi>Power,</hi> and they <hi>Princes of the Land,</hi> right <hi>Eng<g ref="char:EOLhyphen"/>liſh Worthies,</hi> to whom there belongeth <hi>jus imaginis,</hi> the Ho<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>nours<note place="margin">
+                  <hi>Id eſt,</hi> Jus Nobilitatis. Sigon. de j<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re Rom. <hi>lib. 2. c. 20.</hi>
+               </note> of ancient families, and they ſo qualified, as <hi>Princes</hi> ſhould be, with <hi>Noble</hi> vertues, to do right honourable ſer<g ref="char:EOLhyphen"/>vice to God, the King, the Countrey, eating <hi>in due ſeaſon,</hi> and aiming at <hi>ſtrength</hi> for publick performances, like pub<g ref="char:EOLhyphen"/>lick perſons, <hi>not Drunkenneſs,</hi> like ſneaking ſots in private<note place="margin">
+                  <hi>Pemb.</hi> An<g ref="char:EOLhyphen"/>alyt. Expoſ. Com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dere e<g ref="char:EOLhyphen"/>nim debent ut vivant Deo; non vi<g ref="char:EOLhyphen"/>vere ut com<g ref="char:EOLhyphen"/>edant. <hi>Hugo Cardinal.</hi> in locum.</note> Debaucheries, <hi>not ſerving their own luſt, but the good of others;</hi> as it is, or ſhould be, to make the bleſsedneſs compleat. Now for certain we have all the firſt <hi>in eſse,</hi> and all the laſt at leaſt <hi>in fieri.</hi> We <hi>have a King now,</hi> God be bleſsed, and we have <hi>our own King,</hi> the good Lord bleſs him, and be bleſsed for him, and he <hi>Rex Nobilis,</hi> a right King indeed. <hi>The ſon of No<g ref="char:EOLhyphen"/>bles</hi> in <hi>Solomons</hi> righteſt ſenſe. Gods bleſſing therefore to the Land, for <hi>bleſsed art thou, O Land, when thy King is the ſon of</hi>
+               <note place="margin">
+                  <hi>Nobilita<g ref="char:EOLhyphen"/>tem non dat unus dies.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ud. Vives <hi>Satellit. See</hi> Swit<g ref="char:EOLhyphen"/>zerland <hi>in</hi> Mercator'<hi>s Atlas. And in Archbiſh.</hi> Abbot'<hi>s Deſcript. of the World.</hi>
+               </note> 
+               <hi>Nobles.</hi>
+            </p>
+            <p>And we have <hi>Princes</hi> too, for an <hi>Honourable Houſe of Peers</hi> again, to redeem us from that <hi>other Houſe,</hi> and they <hi>Princes of the Land,</hi> not ſubdititious Lords of adulterine Editions, no <hi>Protectorian Muſhromes,</hi> meer Nullities <hi>Ephemeral,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of right Royal Creations: <hi>vere Patricii,</hi> the right <hi>Engliſh Nobility,</hi> of nobler minds then to come down to thoſe unengliſhed Confederates in the Land, that would have it like to the <hi>Land of Confederates,</hi> a very <hi>Anarchie;</hi>
+               <pb n="13" facs="tcp:64604:7"/> Heroick perſons, and of Princelike ſobriety, to eat <hi>in tempo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſuo,</hi> and then but <hi>ad reficiendum;</hi> as St. <hi>Jerome</hi> renders it, to renew their ſtrength, exhauſted with publick ſervices. <hi>Publici boni amantes,</hi> as <hi>Corranus</hi> ſaies they ſhould be, lovers<note place="margin">S. Hieron. <hi>Interp. Bibl.</hi> Corranus <hi>in locum.</hi>
+               </note> of publick good. Such we have, God be thanked, though all, it may be, are not ſuch. And ſo all the Articles be true, though not of all, and known ſo to be, though not to all. Certainly true of many, though not aſcertained to the many. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea all be ſuch forought I know; but certain it is that his<note place="margin">
+                  <hi>Proclama. M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y 30. 1660. Proclama. Aug<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt 13. 1660. Pro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lama. Septem.</hi> 29. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>660. Claudian. <hi>de 4. Honor. Conſ.</hi>
+               </note> Sacred Maieſty takes all due care to have all ſo, witneſſe his <hi>ſeveral Proclamations</hi> againſt <hi>Debauchery,</hi> wherein he com<g ref="char:EOLhyphen"/>mands both Princes and people to be of ſober Converſati<g ref="char:EOLhyphen"/>ons, that he in them might be as bleſſed by that condition on their part, as they are in him by that and all conditions on his. O that <hi>Claudians, Regis ad exemplum, &amp;c.</hi> were verified in this, as in matters of leſſe concernment, that ſuch as <hi>love,</hi> or pretend to love his Majeſty, would ſhew it in <note n="†" place="margin">Joh. 14. 15. Seneca <hi>in Thyeste.</hi>
+               </note> 
+               <hi>keeping</hi> thoſe Royal <hi>Mandates</hi> as well as others. <hi>Rex vel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t honesta;</hi> Would to God <hi>Seneca</hi> could now make good what follows, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> non eadem volet.</hi> Were all the people, are but all Prin<g ref="char:EOLhyphen"/>ces ſuch as the King would have them, the Land would ſure<g ref="char:EOLhyphen"/>ly be as bleſſed, as <hi>Solomon</hi> can aſſert it by the Text.</p>
+            <p>But ſuppoſe ſome defects in ſome, and I do but ſuppoſe it, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuppoſitio nihil ponit;</hi> yet all being perfect <hi>ex parte Regis,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Land may aſſelf the title of bleſſed; for as there is a bleſ<g ref="char:EOLhyphen"/>ſedneſſe on both conditions together, ſo in either by it ſelf. And they be not merely the joynt conditions of one onely bleſſedneſſe: but the different advantages of divers, ſo the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ginal</hi> intends it. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>plurale conſtructum,</hi> as well as <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gulare.</hi> As it may be rendred <hi>b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ata</hi> w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th St. <hi>Jerome,</hi> or <hi>be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tu</hi>
+               <note place="margin">
+                  <hi>S.</hi> Hieron. <hi>Interp. Bibl.</hi>
+               </note> with <hi>Pagnine</hi> and <hi>Mercer:</hi> ſo <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t may <hi>beatitudines tuae, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Montanus</hi> latines it, thy bleſſedneſſes. And ſo much <hi>Bux<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f,</hi> a Maſter of that holy Language, likewiſe obſerveth, as
+<pb n="14" facs="tcp:64604:8"/> 
+               <hi>Pagnine</hi> does with the <hi>Targum</hi> and <hi>Rabbinical Criticks.</hi> Some<note place="margin">Pagninus <hi>T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Lingu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> S<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ct.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt. <hi>Bib. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Rod. Hebra<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. in</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> O q<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e tu es bien heureux o terre.</note> of the French Tranſlatours turn it by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>O how happy art thou, O Land?</hi> As w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndring at the happineſſe or happi<g ref="char:EOLhyphen"/>neſſes; happy in having <hi>thy King the ſon of Nobles,</hi> and hap<g ref="char:EOLhyphen"/>py in having <hi>thy Princes,</hi> ſuch as <hi>eat in due ſeaſon, for ſtrength and not for drunkenneſs: beata</hi> in that, and <hi>beata</hi> in this, bleſ<g ref="char:EOLhyphen"/>ſed in either, but wonderfull bleſſed in both together.</p>
+            <p>And not only ſo as by two ſingle <hi>beatitudes,</hi> one by the one condition, another by the other, but by many in each; As 1. <hi>Bleſsed</hi> art thou, O Land, in <hi>having a King;</hi> and 2. <hi>bleſſed</hi> art thou in having <hi>but one King:</hi> and 3. <hi>bleſsed</hi> in ha<g ref="char:EOLhyphen"/>ving <hi>thine own King:</hi> and 4. <hi>bleſsed</hi> in having <hi>ſuch a King</hi> as thine own, a King right Noble, <hi>the ſon of Nobles:</hi> and 5. <hi>bleſsed</hi> alſo in having <hi>Princes:</hi> and 7. <hi>bleſsed</hi> in having them <hi>temperate perſons,</hi> ſuch as <hi>eat in due ſeaſon:</hi> and 8. <hi>bleſsed</hi> in having them aim at <hi>ſtrength, not drunkenneſs</hi> in eating. And ſuppoſe them not all ſeveral bleſſedneſſes, yet be they ſeve<g ref="char:EOLhyphen"/>rall addi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions to that ſo accumulate in the Text; and each ad<g ref="char:EOLhyphen"/>dition is a <hi>bleſſing.</hi>
+            </p>
+            <p>I cannot now review them all, but muſt take up with thoſe of the King, or by him, which ſpeak us <hi>bleſsed,</hi> and <hi>bleſsed,</hi> and <hi>bleſsed,</hi> exceedingly <hi>bleſsed.</hi> Shall I run them over again to <hi>open</hi> the <hi>palm</hi> of the <hi>Time</hi> with the <hi>Text? firſt,</hi> bleſſed art thou O Land, in <hi>having a King.</hi> But <hi>ſecondly,</hi> more bleſſed in having <hi>but one King.</hi> And <hi>thirdly,</hi> more and more bleſsed<note place="margin">
+                  <hi>Filius Can<g ref="char:EOLhyphen"/>didorum,</hi> Periphraſis optimi Re<g ref="char:EOLhyphen"/>gis, bene, b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oté, &amp; ſancte e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>ducati. <hi>Anton. Co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>an.</hi> Annotar.</note> in having <hi>thine own King.</hi> But <hi>fourthly,</hi> moſt of all bleſsed in having <hi>ſuch a King</hi> as thine own, a King <hi>moſt truly Noble,</hi> compoſed all of Nobleneſs, of Noble <hi>bloud,</hi> and a <hi>Noble ſoul,</hi> Nobly <hi>deſcended,</hi> Nobly <hi>diſpoſed,</hi> Nobly <hi>deſigned, filius candidorum,</hi> the ſon of Nobles, and Nobleſt of ſuch ſons, as <hi>maximus natu.</hi> A Noble <hi>Climax,</hi> the true <hi>Incrementum</hi> of <hi>Englands</hi> bleſsedneſs. Let us pace the <hi>Gradation</hi> again, and with ſteps more deliberate.</p>
+            <pb n="15" facs="tcp:64604:8"/>
+            <p>And in the <hi>firſt place,</hi> let us well obſerve that our very <hi>firſt ſtep</hi> towards <hi>National</hi> bliſs is our <hi>having a King.</hi> The Text ſuppoſeth any bleſsed Land to have ſo. Nor does it pro<g ref="char:EOLhyphen"/>nounce a Land bleſsed without one. The <hi>Land of Canaan</hi> it ſelf was very unhappy when it wanted a <hi>King,</hi> and was but merely miſcalled <hi>the holy Land.</hi> It was indeed neither holy not happy: but therefore unhappy, becauſe unholy, &amp; there<g ref="char:EOLhyphen"/>fore both becauſe <hi>without a King.</hi> When there was no <hi>King</hi>
+               <note place="margin">Judg 17. 6. 21. 25.</note> 
+               <hi>is Iſrael, every man did that which was right in his own eyes.</hi> And when every man did ſo, but few or none did that which was right in the <hi>eyes of God.</hi> And when it was ſo in the Land, how could it be bleſsed? Great was the wickedneſs then, and great the wretchedneſs in Iſrael: witneſs thoſe wofull ſtories towards the end of <hi>Judges,</hi> where all the evils both <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>poenae,</hi> of ſin and ſuffering be often aſcribed to the<note place="margin">Jud. 18. 1.</note> want of a King, <hi>non erat Rex, there was no King in Iſrael.</hi>
+            </p>
+            <p>And as <hi>Iſraels</hi> woes <hi>in diebus illis</hi> were for <hi>want</hi> of a King: ſo were <hi>Englands</hi> of late. <hi>Non erat Rex in Anglia,</hi> we had not our <hi>King</hi> in England. But almoſt every man plaid <hi>Rex,</hi> and did what ſeemed good in his own eyes. Yea every man but thoſe good Engliſh <hi>Proteſtants</hi> that were <hi>true Royal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſts<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and had the <hi>fear of God</hi> before their eyes. Alas! they only might not do what ſeemed right to them, and was right indeed; or not without <hi>dangers</hi> of cenſure and ſuffering. They might not do <hi>right</hi> to their <hi>God,</hi> nor <hi>right</hi> to their <hi>King,</hi> nor to their <hi>Countrey,</hi> nor to their <hi>own ſouls,</hi> except in <hi>ſecret.</hi> They might not ſerve God as they ought, nor pray for <hi>this bleſsedneſs</hi> of my Text, without hazzarding liberties, livelyhoods, lives and all. Indeed much <hi>tender pity</hi> was then pretend<g ref="char:EOLhyphen"/>ed towards <hi>tender Conſciences;</hi> but none intended indeed for any but thoſe <hi>erroneous.</hi> No kind of pi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tymight be extended to any <hi>good conſcience</hi> that <hi>obliged</hi> to <hi>Loyalty,</hi> nor to any pious ſoul that would not renounce the <hi>right Engliſh Proteſtancy. The mercies</hi> deſigned for ſuch were <hi>cruelties:</hi> unleſs <hi>ſequeſtrations, proſcriptions</hi> and <hi>trucidations</hi>
+               <pb n="12" facs="tcp:64604:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:64604:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:64604:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:64604:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:64604:11"/> were <hi>Acts</hi> of mercy; or unleſs the <hi>forcing</hi> of men from con<g ref="char:EOLhyphen"/>ſcience with <hi>Covenants,</hi> and <hi>trappaning</hi> their ſouls with ſnares were mercies. All ſorts of <hi>Apoſtates</hi> might be indulged: but no <note n="*" place="margin">Invidiam ſortita est Religio. S. <hi>Auguſt.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Joh. 17. 3.</hi>
+               </note> 
+               <hi>true ſons</hi> of the Church of <hi>England;</hi> as in <hi>Greece</hi> of old and in <hi>old Rome,</hi> men might have worſhipped any God, but only the <hi>God of Iſrael,</hi> the <hi>onely true God;</hi> or might have worſhipped him with any but his own true worſhip: ſo in <hi>England</hi> of late men might have been any thing but onely what they ſhould have been, they might have been of any new Religion they liſted, or of no Religion at all, if they liſt<g ref="char:EOLhyphen"/>ed, as too many were. But might not be for that <hi>good old way</hi>
+               <note place="margin">Jer. 6. 16.</note> they had been, and ever ſhould have been: any but the <hi>Di<g ref="char:EOLhyphen"/>vine ſervice</hi> of our Church might have been uſed, toleration for any beſides might have been purchaſed. The <hi>Jews</hi> might have a <hi>Synagogue,</hi> and had in Englands <hi>Metropolis</hi> to deny our Saviour, and contradicted his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But <hi>Engliſh</hi> Pro<g ref="char:EOLhyphen"/>teſtants might not be protected. Many were ruined, <hi>Religi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nis ergo,</hi> and others ran the hazzard. Theirs was the ſaddeſt condition of any, becauſe there was <hi>no King in Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>We then were like to Iſrael for want of a King, and ſhould not be unlike the <hi>better Iſraelites,</hi> now we have one. When God had bleſſed them with a King, they loved him as their lives; and ſtyled him the <note n="†" place="margin">Lam. 4. 20. <hi>L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cernam Iſrael.</hi> 2 Sam. 21. 17. Quintus <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Curtius <hi>de Geſt. Alexandr. lib.</hi> 10. Job 28. 13. Pſal. 27. 13 142. 5. Iſa. 38. 11. 53. 8. Ezec 26. 20 32. 23, 23.</note> 
+               <hi>Breath of their noſthrils,</hi> and the <hi>Light of Iſrael.</hi> We have now as juſt cauſe, as I con<g ref="char:EOLhyphen"/>jecture: for the Light and Life of this our <hi>Iſrael</hi> went and came with our Soveraign. The whole Land without him was but <hi>Corpus ſine Anima,</hi> a Body without a Soul; as <hi>Q<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Curtius</hi> ſaid of an Army without a General. We could not then look upon <hi>England,</hi> as on <hi>Iobs,</hi> or <hi>Davids,</hi> or <hi>Iſaiahs,</hi> or <hi>Ieremies,</hi> or <hi>Ezechiels Land of the Living.</hi> It was a dying Life, we living; or a living Death we endured; a ſtate worſe then Death indeed.
+<pb n="17" facs="tcp:64604:11"/> When this Preacher, <hi>Solomon,</hi> in his dayes had <hi>conſidered the oppreſsions done under the Sun, and beheld the teares of ſuch as were oppreſsed, and had no Comforter. On the ſide of their Oppreſſours there was power: but they had no Comforter. He praiſed the dead more then the living,</hi> Eccleſ. 4. 1, 2. No<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could he have done otherwiſe of late, had he conſidered the Oppreſſions done in <hi>England,</hi> and behold the teares of ſuch as were oppreſſed, and had no comforter. <hi>Proh dolor! non erat Rex in Anglia,</hi> there was no King in <hi>England</hi> to relieve the oppreſſed; or to enliven thoſe that were even worſe than dead. The <hi>Natural Bodie</hi> wanteth Life, when it wants a Soul; ſo did the <hi>Bodie</hi> of this <hi>Land,</hi> when that <hi>Civil Soul,</hi> King was parted from it. And Carkeſs-like, it corrupted apace, and bred devouring Vermine, which lived like themſelves, upon the Bodies of other Men's E<g ref="char:EOLhyphen"/>ſtates; while others, their betters did not, could not live as otherwiſe they might. Alas! good Subjects did not live, but ſuffer; for, <hi>ſimplex vita non est vivere, ſed valere,</hi> It is not to live, merely to have life, but to enjoy it. But that we did not, could not, when the <hi>Civil Soul</hi> of our <hi>Nation;</hi> and <hi>religious Soul</hi> of our <hi>National Church</hi> was forced to a ſor<g ref="char:EOLhyphen"/>rowfull <hi>ſtate of ſeparation.</hi> Moſt heavy oppreſſions were all<note place="margin">
+                  <hi>Surely op<g ref="char:EOLhyphen"/>preſsion maketh the wiſe man mad,</hi> Ec<g ref="char:EOLhyphen"/>cleſ. 7. 7.</note> abroad. Such as made ſome <hi>wiſe men mad,</hi> and ſome mad men Wiſe. So wiſe, as to ſee their want of a King; yea ſo wiſe, as to underſtand, that <hi>England</hi>'s real Comfort is onely in a <hi>Royal Comforter.</hi> It was merely by <hi>Antiphraſis,</hi> that ſome would needs be miſcalled <hi>Conſervators,</hi> and others <hi>Protectors;</hi> when <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ety</hi> and <hi>Loyaltie</hi> could find no <hi>Protecti<g ref="char:EOLhyphen"/>on,</hi> becauſe <hi>no King</hi> in <hi>England.</hi> But bleſſed be the <hi>King of</hi>
+               <note place="margin">Rev. 17. 14.</note> 
+               <hi>kings,</hi> we have one now, to do us right; one that hath al<g ref="char:EOLhyphen"/>ready enlivened, and <hi>enlightened</hi> the Land, as holy <hi>Iob</hi> has<note place="margin">Iob 33. 30.</note> it, <hi>Luce viventium, with the Light of the living.</hi> And no<g ref="char:EOLhyphen"/>thing now can ſeem more ſeaſonable than <hi>Acts of Oblivion,</hi>
+               <pb n="18" facs="tcp:64604:12"/> in reference to the late Oppreſſours, and to the Powers on their ſide. Yet nothing can be leſs ſutable than preſent for<g ref="char:EOLhyphen"/>getfulneſs of ſuch Oppreſſions, in reference to God our Saviour, who hath ſo redeemed us from them. It is indeed<note place="margin">S. <hi>Chryſ.</hi> Homil. ad popul. An<g ref="char:EOLhyphen"/>tiochen.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as S. <hi>Chryſoſtome</hi> ſaies of Sadneſs, to retrive any thoughts of thoſe injurious Times. Yet muſt they be thought of: not to corroborate Animoſities; nor yet <hi>re<g ref="char:EOLhyphen"/>novare dolores,</hi> to rub old ſores; much leſs to beget Re<g ref="char:EOLhyphen"/>ſolves, <hi>cruorem cruore reponere</hi> (if <note n="†" place="margin">Tertul. Lactant. <hi>Inſtitut. l.</hi> 5. S. Hieron. <hi>Epiſt. 128. ad Fabiol.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Rom. 12. 13. <hi>Memineris, quod ſervus fuiſti in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er<g ref="char:EOLhyphen"/>ra</hi> &amp;c. Deu. 5. 15.</note> noble <hi>Tertullian</hi>'s phraſe may be ſo taken) to <hi>recompence evil for evil.</hi> But for more pious purpoſes.</p>
+            <p>As <hi>firſt,</hi> to perpetuate due Thankfulneſſe to God, for ſo memorable a Deliverance. That <hi>Houſe of Bondage,</hi> our <hi>Engliſh Egypt,</hi> may not be forgotten, nor the <hi>Bondage</hi> of that Houſe; leaſt we forget our Obligations to thank our Redeemer. He hath raiſed the Land from National death, by reuniting it's Soul unto it. A bleſsfull Reſurrection! we are bleſſed by it, a <hi>Bleſsed Land.</hi>
+            </p>
+            <p>And <hi>ſecondly,</hi> thoſe Miſeries muſt be remembred, to make our preſent Mercies appear the more like themſelves. <hi>Contraria juxta ſe oppoſita, magis cluceſcunt.</hi> By looking back to the Curſedneſſe of thoſe mercileſſe times, wherein we wanted a King, we may the better heed the bleſſedneſſe of theſe, wherein we have one.</p>
+            <p>And <hi>thirdly,</hi> we muſt keep thoſe Times in mind, to keep us from the like. To think of them may make men a<g ref="char:EOLhyphen"/>fraid to ſin as they did, by un Kinging the Land, or ſuffer<g ref="char:EOLhyphen"/>ing it ſo to be un-Kinged. Let it never be forgotten, that for <hi>England</hi> to be un-Kinged, is to be un-Churched, to be un-bleſſed, to be undone. Let us ſo remember that <hi>ſhadow of Death</hi> wherein we ſate, when the <hi>Light</hi> of the Land was<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Luke 1.</note> ſo put out, as never to ſuffer it again to be ſo extinguiſhed. Yea let us ever beware of thoſe <hi>ill kinds</hi> of men, that be for
+<pb n="19" facs="tcp:64604:12"/> 
+               <hi>Oppoſing, Depoſing,</hi> and <hi>Killing</hi> of Kings, ſuch be all <note n="*" place="margin">See Dr. Owen'<hi>s Pu<g ref="char:EOLhyphen"/>ritan Ieſui<g ref="char:EOLhyphen"/>tiſme.</hi> See Anti<g ref="char:EOLhyphen"/>Cotton. <hi>See Sr</hi> Tho. Aſhton'<hi>s Remonstr. and ſurvey of Presbyt. See</hi> Arch B. Bancroft. <hi>ſerm.</hi> 1 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 4. 1. <hi>See</hi> Lyſi<g ref="char:EOLhyphen"/>mach. Ni<g ref="char:EOLhyphen"/>can. <hi>Epiſt. Congratul. See</hi> Pet. du Moulin. <hi>jun to the Scot Cove<g ref="char:EOLhyphen"/>nanteer.</hi>
+               </note> 
+               <hi>Puri<g ref="char:EOLhyphen"/>tanizing Ieſuites,</hi> and <hi>Ieſuitizing Puritans; fratres in malo,</hi> both for <hi>Coertion,</hi> and <hi>Depoſition</hi> of Kings, and for <hi>Decolla<g ref="char:EOLhyphen"/>tion</hi> too, <hi>Herod</hi> and <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>late</hi> reconciled. They differ <hi>de mo<g ref="char:EOLhyphen"/>dis,</hi> but ſpeak <hi>de rebus</hi> ſo like each other, that there is hard<g ref="char:EOLhyphen"/>ly the difference of <note n="†" place="margin">Iud. 12. 6 a <hi>See</hi> Cot<g ref="char:EOLhyphen"/>ton'<hi>s De<g ref="char:EOLhyphen"/>clarator. let. to the Queen Reg. See</hi> Maria<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a <hi>de Rege, &amp; Regis Inſtitutione.</hi> G<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tz. <hi>Ve<g ref="char:EOLhyphen"/>ſpertil.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>narſe <hi>Am<g ref="char:EOLhyphen"/>phitheatr. Honor.</hi> F<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Ve<g ref="char:EOLhyphen"/>ron. Con<g ref="char:EOLhyphen"/>ſtan. <hi>Apo<g ref="char:EOLhyphen"/>log. pro Iohan. Chaſtel.</hi> Andr. Eudae non. Ioan <hi>Apolog</hi> Guigna<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Ribadeneira. T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uan <hi>Hiſt.</hi>
+               </note> 
+               <hi>Shibboleth</hi> and <hi>Sibboleth</hi> in their ſpeeches. And as near an agreement, if not a nearer of late, there hath been in their Actions. Unleſſe ſome followers of <hi>Leſley</hi> have quite ont-gone all thoſe of <hi>Loyola,</hi> in the Hardineſſe of <hi>reſiſting,</hi> and <hi>affronting</hi> Royal Majeſty; and out-done them in their Boldneſſe of <hi>Murdering</hi> their So<g ref="char:EOLhyphen"/>veraign. Indeed they have ſet ſuch a <hi>Preſident</hi> of King<g ref="char:EOLhyphen"/>killing, as have put down <hi>a Ravilliack</hi> himſelf; yea and <hi>Chaſtel,</hi> and <hi>Clement</hi> the <hi>Iacobin</hi> too, or <hi>Iames Clement.</hi> Yea all thoſe Treaſons of <hi>Stueley,</hi> and <hi>Sanders,</hi> and <hi>Somervil,</hi> and <hi>Crighton,</hi> and <hi>Parry,</hi> and <hi>Savage,</hi> and <hi>Babington,</hi> and <hi>Stafford,</hi> and <hi>Squire,</hi> and <hi>Lopez</hi> were modeſt to that of the late <hi>Ieſuitizing Puritans;</hi> and ſo was that of <hi>Catesby,</hi> and <hi>Piercy,</hi> and <hi>Winter,</hi> and <hi>Faux;</hi> the <hi>Gun-powder</hi> Treaſon it ſelf, though horrid and helliſh, even to aſtoniſhment, as is ſtoried by that right reverend <note n="b" place="margin"> b <hi>Bih.</hi> Carleton'<hi>s Thankfull Rem<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mb Bp.</hi> Barlow. <hi>Bp</hi> Andrews. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>'<hi>s Great</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>great Deliverance.</hi>
+               </note> Biſhop of <hi>Chichester,</hi> and others. And let it be remembred, as it deſerves, that thoſe late <hi>Regicides</hi> were of <hi>two</hi> ſeveral <hi>fraternities:</hi> but both ſuch active <hi>Fanaticks,</hi> as if they had been <hi>Ieſuited Romists;</hi> or as if the ſoules of <hi>Briſtoe,</hi> and <hi>Garnet,</hi> and <hi>Oldcorn,</hi> and <hi>VVa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon;</hi> yea of <hi>Varade,</hi> and <hi>Verona,</hi> and <hi>Heureux,</hi> and <hi>E<g ref="char:EOLhyphen"/>manuel Sa</hi> had all broke <hi>Purgatory,</hi> and by a kind of <hi>Ma<g ref="char:EOLhyphen"/>zarinean</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> were organized by <note n="c" place="margin">
+                  <hi>See Bp.</hi> Andrews <hi>his ſpeech againſt</hi> Trask, <hi>inter Opuſc.</hi>
+               </note> 
+               <hi>Traskites</hi> and <note n="d" place="margin">
+                  <hi>See</hi> Deniſon'<hi>s white Wolf.</hi>
+               </note> 
+               <hi>He<g ref="char:EOLhyphen"/>thering tonians,</hi> and <hi>Bareboneans;</hi> yea by <hi>Smectymnuans,</hi> and <hi>Henderſonians,</hi> and were acting them all in that <hi>Work for
+<pb n="20" facs="tcp:64604:13"/> Rome,</hi> their <hi>King killing</hi> Reformation. And if <hi>Cauſa cauſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> be <hi>cauſa cauſati,</hi> as certainly it is, then by the <hi>Fanaticks,</hi> who began that Work, as <hi>VVicked Regicides</hi> as any others: yea the prime Agitatours. And <hi>re vera,</hi> they gave the <hi>first fatal</hi> blow, though others gave the laſt. They took the King's <hi>Crown</hi> off his head, though others took his <hi>Head</hi> off his ſhoulders. Had not thoſe <hi>firſt Fanaticks</hi> ſo murdered his <hi>Royal Power;</hi> the others had never ſo murdered his <hi>Royal Perſon.</hi> The younger enemies of his <hi>Religious Prote<g ref="char:EOLhyphen"/>ſtancie</hi> could not have taken away his Life, had not the el<g ref="char:EOLhyphen"/>der taken away his <hi>friends</hi> in <hi>Church</hi> and <hi>State.</hi> Though the <hi>fatal Axe</hi> had an <hi>Independent Handle;</hi> yet had it a <hi>Pre<g ref="char:EOLhyphen"/>sbyterian Back,</hi> and <hi>Edge,</hi> as well as a <hi>Ieſuitical</hi> Head. Alas! the new model'd Factions were all but off ſets of that firſt wild Root of Bitterneſſe. Their own <hi>eggs</hi> hatch't by them<g ref="char:EOLhyphen"/>ſelves into ſuch <hi>Cockatrices,</hi> to verifie that Proverb, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">E<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſm. <hi>Adag.</hi>
+               </note> They were laid in the neſt of the <hi>Scottiſh</hi> League, and hatch't into what they have been. Let all there<g ref="char:EOLhyphen"/>fore that value the Bleſſedneſſe of my Text, take heed of Fanaticks, of that ring leading faction, as much as of others. Let all that would keep their good King in juſt Power,<note place="margin">Eraſ <hi>Ad<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g.</hi> Camd<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n'<hi>s Remaines.</hi>
+               </note> keep ſuch out of Power. <hi>Ictus piſcator ſapit; The burned child the fire dreads.</hi> Truſt not <hi>Fanaticks</hi> of either faction. <hi>In neither Barrel b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter Herring. Sero ſapiunt Phryges.</hi> Though <hi>Chriſtian pietie</hi> may well forget to <hi>puniſh</hi> them, yet <hi>Chriſtian Polici<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſhould not forget to <hi>prevent</hi> them. And I mind you of them, but onely for <hi>Prevention;</hi> wiſhing there might be a <hi>Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terition</hi> at leaſt, if not a <hi>Reprob<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion</hi> of all <hi>Fanatick R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gicid<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> in all <hi>Elections</hi> for <hi>Truſt</hi> and <hi>Power.</hi> And I onely call them ſo, that will ſee no evil in being ſo. But as touching any true Convert, I ſhall ſay, as it was of S. <hi>Auſtine</hi> after his Converſion; <note n="a" place="margin">Fuller'<hi>s Holy State: of S.</hi> Au<g ref="char:EOLhyphen"/>guſtine'<hi>s Life.</hi>
+               </note> '<hi>Tis Tyranny to tram<g ref="char:EOLhyphen"/>ple on him that proſtrates himſelf;</hi> and as that <note n="b" place="margin">Seneca <hi>Tragoed.</hi>
+               </note> Tragoedian,
+<q>Quem paenitet peccaſſe, pene eſt innocens.</q>
+               <pb n="21" facs="tcp:64604:13"/> He that is ſuch, will ſurely wiſh, that all due care may eve<g ref="char:EOLhyphen"/>ry where be taken, to <hi>purge out that old leaven,</hi> that the next Parliament may be a <hi>new Lump.</hi> That what the <hi>Heal<g ref="char:EOLhyphen"/>ing</hi>
+               <note place="margin">His Maje<g ref="char:EOLhyphen"/>ſties gracious Speech to both Houſes of Parliam. D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cemb. 29. 1660.</note> 
+               <hi>Bleſsed Parliament</hi> hath ſo well farthered, may by the next be as happily finiſhed. And bleſſed be the Memory of that <hi>Healing Parliament,</hi> that hath ſo piouſly, and ſo pru<g ref="char:EOLunhyphen"/>dently helped us to the Bleſſedneſſe of my Text; a joyous Bleſſing, the Bleſſing <hi>ſpecifical</hi> of <hi>Heaven</hi> it ſelf. And Hea<g ref="char:EOLhyphen"/>ven were not it ſelf without the Bleſſing of a King: it could not be the place of Happineſs, were it not a Kingdome. I never knew it ſtyled the <hi>Commonwealth of Heav<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Matth. 32 23. 13. 1 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 6 9 2 Theſſ 1. 5.</note> the <hi>Kingdome of Heaven,</hi> and the <hi>Kingdome of God,</hi> and the <hi>Kingdome of Glory;</hi> and the Glory of it is mere<g ref="char:EOLhyphen"/>ly from the King of Glory: without the King of Heaven, there could be no ſuch Glory, no ſuch Happineſſe, no ſuch Ioy, as there is in Heaven. The Saints and Angels there may thank their King for all their Glory, all their Happineſs, all their Ioy; and ſo they do with joyous Acclamations, inceſſant <hi>H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llelujah</hi>'s.</p>
+            <p>Yet ſome <hi>Fanaticks</hi> dream of an <hi>Earthly Heave<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> without a King; or would make Heaven it ſelf without one for a thouſand yeares, while the <hi>King of Glory</hi> ſhould <hi>Perſonally <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ign</hi> on Earth ſo long. Others would have an <hi>Engliſh<g ref="char:EOLhyphen"/>Commonwealth<g ref="char:punc">▪</g> Heaven,</hi> for no leſſe time, by <hi>levelling</hi> all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o an abſolute <hi>Parity.</hi> A fanatick Dream, or monſtrous <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancy begotten by two Miſconceits.</p>
+            <p>
+               <hi>First,</hi> that all <hi>Subjection</hi> in the Family of <hi>Adam</hi> was mere<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y cauſed by the <hi>fall</hi> of <hi>Adam.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> that they be as free from ſin as <hi>Adam</hi> before his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll; which is no leſs than the giving of Scripture it ſelf the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: for that has <hi>con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luded all under ſin,</hi> and that by a general <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And <hi>if we ſay we have no ſin, we dec<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive our ſelves,</hi>
+               <note place="margin">Ioh. 1. 8.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith S <hi>Iohn) and the truth is not in us.</hi>
+            </p>
+            <pb n="22" facs="tcp:64604:14"/>
+            <p>But ſuppoſe there were no ſelf-deceit <hi>quoad hoc</hi> in ſelf-ad<g ref="char:EOLhyphen"/>miring <hi>Adamites.</hi> Suppoſe them as free from ſin as they bo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt themſelves. Yet are they a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſſe in that other conceit. For <hi>Superior<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty</hi> and <hi>Subord<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nation</hi> were rather <hi>corrupted</hi> than cauſed by the ſin of the <hi>Protoplaſt;</hi> and <hi>Soveraign Power</hi> was not brought in, but broken by his fall. It fell in him, and was as much impaired by the fall as he himſelf. God made him at firſt <hi>in his own likeneſſe,</hi> with abſolute Do<g ref="char:EOLhyphen"/>minion,<note place="margin">Gen. 1. 26, 27.</note> 
+               <hi>in omnem terram,</hi> over all the earth; and as the Do<g ref="char:EOLhyphen"/>nation ran <hi>over all the earth,</hi> it ſurely took in all Inhabitants <hi>by a Metonymi of the Subject;</hi> and could not include all the <hi>Rational Creatures</hi> that were to <hi>repleniſh the earth,</hi> as well<note place="margin">
+                  <hi>Gen. 1. 28. Eph.</hi> 5. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1 <hi>Pet.</hi> 3. 6.</note> as thoſe <hi>Irrational.</hi> And that Dominion over Rationalls was firſt <hi>Martial,</hi> and ſo <hi>Paternal,</hi> and ſo <hi>Imperial.</hi>
+            </p>
+            <p>
+               <hi>Firſt, Martial,</hi> for <hi>ab initio</hi> the Husband was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the head of the Wife.</hi> And it was as much the duty of <hi>Eve</hi> to <hi>Adam,</hi> as of <hi>Sarah</hi> to <hi>Abraham,</hi> to <hi>obey him</hi> and <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell him Lord. The husband is the head of the wife, as Chriſt i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the head of the Church. And therefore</hi> (ſaith St. <hi>Paul) as the Church is ſubject to Chriſt, ſo let wives be to their own huſ<g ref="char:EOLhyphen"/>bands in</hi> 
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> A Chriſto Eccleſia ſumpſit ini<g ref="char:EOLhyphen"/>tium; und<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bjecta eſt illi: ita &amp; viro mulier ſit ſubdita. St. <hi>Amb. Explan. Epiſt. ad Eph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ.</hi>
+               </note> 
+               <hi>all things,</hi> Epheſ. 5. 23, 24. Where wives ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commanded to be ſubject to their husbands <hi>natural<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> ſaith St. <hi>Ambroſe,</hi> by the law of Nature, becauſe woman ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beginning from man. Husbands are Types of <hi>Chriſt;</hi> ſo was <hi>Adam.</hi> And wives be Types of Chriſts Spouſe the Church; ſo was <hi>Eve.</hi> And the Church is <hi>really</hi> the <hi>Mo<g ref="char:EOLhyphen"/>ther <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f all living,</hi> as <note n="*" place="margin">
+                  <hi>Ioſeph.</hi> Antiquita, Ju<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aic. <hi>lib. 1. cap. 2. Eucher</hi> de Nom. He<g ref="char:EOLhyphen"/>brai. St <hi>Auguſt. in Pſal 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6. Nic de Lyra in Ge<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. c.</hi> 2. St <hi>Amb<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Epheſ cap</hi> 5.</note> 
+               <hi>Eve</hi> was <hi>Nominally.</hi> And as ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mother the Church has a <hi>Royal</hi> Husband of the <hi>Second A<g ref="char:EOLunhyphen"/>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom whom ſhe had her being: ſo had our Grand mother <hi>Eve</hi> of the firſt, from whom ſhe had hers. Nor wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he the leſſe her King for being her husband. Nor ſhe mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exempted from being a ſubject by being a wife; but ſubject<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> even <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o nomine,</hi> though of an higher form than other ſub<g ref="char:EOLunhyphen"/>jects.
+<pb n="23" facs="tcp:64604:14"/> So evident it is, that ſubjection was not brought into his family by his fall: but was there before, brought in with that <hi>Honorable eſtate of holy Matrimony, inſtituted of God in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aradice, in the time of mans innocency.</hi> So his firſt Domi<g ref="char:EOLhyphen"/>nion over rationals was <hi>Marital.</hi>
+            </p>
+            <p>And ſo <hi>Secondly,</hi> Paternal, for this ſecond was <hi>potentially</hi> and vertually in that firſt. By being an husband, and with that benediction too, <hi>be fruitful and multiply, and repleniſh</hi>
+               <note place="margin">Gen. 1. 28.</note> 
+               <hi>the earth;</hi> he was a father <hi>eminentèr;</hi> God made him <hi>in his <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> likeneſſe,</hi> as he made him a <hi>man:</hi> and ſo he did, as he made him a father; but his likeneſſe to God in both, was his right of Dominion by both. He had the likeneſſe of his Maker, as he had <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. the likeneſſe of Gods<note place="margin">St. <hi>Chriſ.</hi> Ad Pop. An<g ref="char:EOLhyphen"/>tioch. Hom. 7.</note> Principality: as St. <hi>Chryſoſtome</hi> well obſerves; By his Man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood he was Gods Repreſentative in having Dominion o<g ref="char:EOLhyphen"/>ver other Creatures. By his fatherhood, in having Domi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion over all his off-ſpring, and <hi>Eve</hi> was one of them, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough not <hi>naturali modo.</hi> And ſo <hi>quatenus homo,</hi> he had <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uperiority over other Creatures: <hi>quatenus maritus,</hi> over <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is wife; <hi>qua pat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> over his children; and <hi>quatalis pater,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch a father, that had no father but God, he had <hi>ſupre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y</hi> over all mankind.</p>
+            <p>And ſo <hi>Thirdly,</hi> his power was <hi>fontaliter Imperiall.</hi> So that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d he not ſinned, to ſhorten his dayes, and l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his Do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ions, he had ſurely been at laſt <hi>the father of many <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tions,</hi> actually, as at firſt he was Potentially. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d he lived to ſee the whole World peopled with <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Progeny; he had ſeen his <hi>Paternal Power</hi> ſpread <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Imperiall;</hi> and his Empire greater then any ſince <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fall. Yea greater than the Eaſtern and the Weſtern <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth together. It had ſurely been <hi>over all the earth,</hi> ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ording to that firſt Donation. Other Kingdomes there <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight have been, and ſhould: but none like his. And other
+<pb n="24" facs="tcp:64604:15"/> Kings; but none like him. But all inferiour and ſubordinate to him and his. His, like God's own Kingdome, had <hi>ruled over all:</hi> and he, like God, had ſurely been, not merely<note place="margin">1 Tim. 6 15 Rev. 19. 16</note> a King; but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>King of Kings, and Lord of lords.</hi> Though ſome of his Sons, and of his Sons Sonnes might have multiplyed ſo, as to have turned <hi>poteſta<g ref="char:EOLhyphen"/>tes patrias</hi> into <hi>Regias.</hi> Yet all their Multiplications muſt needs have been Deſcents from him by gradual filiations, and ſo ſubordinate to the Primacy of his Fatherhood, and that Imperial Power belonging to it. Nor could any Regi<g ref="char:EOLhyphen"/>fied Sonnes in that ſtate of Innocencie, have refuſed to re<g ref="char:EOLhyphen"/>verence that ſingular likeneſs of God's Paternity and Pow<g ref="char:EOLhyphen"/>er in him. The light of Nature, in that ſtate of better know<g ref="char:EOLhyphen"/>ledge, would ſurely have ſhown them the dutie of Sonnes to ſuch a Father; and the Power of ſuch a Father over his Sonnes. Nor could any have been like <hi>fanatick Adamites,</hi> in ſeeking to level his Power. And ſo indeed there had been a kind of Heaven upon Earth, as all had been bleſſed, like thoſe in Heaven, with ſuch a King, as by S. <hi>Chryſoſtome</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chryſ. <hi>ad popul.</hi> An<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ch. <hi>Homil.</hi> 20.</note> is defined <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. the higheſt and head of all But by the fall of <hi>Adam</hi> that <hi>Univerſality</hi> of Kingly Power was broken; and the World's univerſal bleſſedneſſe loſt thereby. And but ſome parts have been bleſſed ſince with ſmaller Kingſhips; and but ſometimes. So <hi>Canaan</hi> was; and <hi>England</hi> is. Bleſſed be God, he hath bleſſed the Land with a King. That's the firſt.</p>
+            <p>The <hi>Second</hi> is, to have but one King. Two are too ma<g ref="char:EOLhyphen"/>ny for one Kingdome; <hi>Non capit regnum duos,</hi> ſaith <hi>Sen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ca:</hi>
+               <note place="margin">Seneca <hi>Trag in <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> One Head is meeteſt for one Body. The <hi>Holy one<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iſrael</hi> is ſo much for one, and for but one, that for all <hi>Iſr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> he appointed but one <hi>Moſes,</hi> and but one <hi>Ioſhua,</hi> and bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one of them at once, to order both the <hi>ſword of Iustice</hi> an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that of the <hi>Militia</hi> too. The <hi>Camp,</hi> and <hi>Congregation</hi> o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:64604:15"/> 
+               <hi>Iſrael</hi> were both commanded by <hi>Moſes</hi> firſt, and then by <hi>Ioſhua,</hi> when <hi>Moſes</hi> dyed. God knew, I believe, much better then any Common wealth's man, what number was fitteſt for managing ſupreme Power. <hi>Two heads</hi> may be better than one for Counſels, but not for Commands: ſee it ſo in Bodies <hi>Polemical,</hi> and Bodies <hi>Political</hi> too.</p>
+            <p>Firſt, in thoſe <hi>Polemical,</hi> where there muſt be leading ſouldiers, and leading Leaders too, that one may lead an<g ref="char:EOLhyphen"/>other, and all be lead by one in order. One over all makes all as one. One Captain Commander of an Army was ever as needfull as many in it; yea many <hi>General Captains</hi> are apt, through emulation, to quarrel one another. But one <hi>Captain General</hi> takes onely the common Enemie for the object of his Quarrels. The <hi>Romans</hi> for a while ſent their<note place="margin">Vell. Patere. Rom. Hiſt.</note> 
+               <hi>Conſuls</hi> to war with joynt Commands, and for a while their <hi>Military Tribunes;</hi> but after a while, they found that errour of dividing ſuch Commands by the fatall Diviſion of ſuch Commanders; and ſo would have but one at<note place="margin">Quoniam di<g ref="char:EOLhyphen"/>ctis ejus pa<g ref="char:EOLhyphen"/>rebat popu<g ref="char:EOLhyphen"/>lus. Godwin's Rom. Hist. Antholog. lib. 3. ſect. 2. cap. 12 Plin. Sec. Hiſt. Nat. l. 8. c. 23.</note> once in abſolute Power, whoſe <hi>Dictates</hi> all were to obey, from whence his Title was <hi>Dictator.</hi> And in that ſingular Number they found more ſafety, and better ſucceſſe than in their Plurals. The Body of an Army is ever in danger to be pulled in pieces, when, like the ſerpent <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which <hi>Plinie</hi> writes of, it hath two heads, one pulling one way, the other another. And more Heads may be more danger<g ref="char:EOLhyphen"/>ous. The <hi>Athenians</hi> had ſurely been ruined, when many were equal Commanders with <hi>Mil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iades,</hi> had not wiſe <hi>Ariſtides</hi> foreſeen and prevented it, by perſwading all the Commiſſioners to reſign their conjoined Powers to the ſole<note place="margin">H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raults Martial Diſcourſes. Chap. 3.</note> management of <hi>Miltiades.</hi> And that ill ſucceſſe of <hi>Eume<g ref="char:EOLhyphen"/>nes</hi> was thought to happen to him, becauſe the <hi>ſilver Shields</hi> were joyned with him. Such Commanders together can hardly agree to command as one. <hi>Al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibiades</hi> and <hi>Niceas</hi> were ever divided about the carrying on of their conjoined
+<pb n="26" facs="tcp:64604:16"/> Powers: ſo were <hi>Fabius</hi> and <hi>Minutius:</hi> nor would <hi>Varr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Paulus Amilius</hi> have agreed as one, had they been never ſo long conjoyned. The like may be ſaid for others: but I need not look back to Ancient Times; nor into the <hi>Tacticks</hi> of <hi>Lacedemonians</hi> or <hi>Athenians,</hi> nor into the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eats</hi>
+               <note place="margin">Aelian. Tact.</note> 
+               <hi>of War</hi> taken out of <hi>Paternus, Frontinus, Trajanus, Hadria<g ref="char:EOLhyphen"/>nus, Cornelius Celſus,</hi> and <hi>Cato Cenſorius,</hi> by <hi>Flavius Vege<g ref="char:EOLhyphen"/>tius,</hi>
+               <note place="margin">Vegetius de <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Militar.</note> commanded by <hi>Valentianus Auguſtus.</hi> Nor need I ramble to Forreign Wars to note the ill of many, or the good of one good General: our daies afford an Inſtance at home moſt notable. One good <hi>Albemarle</hi> has done that General good of Reſtoring the Land to the bleſſedneſſe of my Text; more good than many would, or could have done. <hi>Committees of Safety</hi> were but miſcalled ſo: the on<g ref="char:EOLhyphen"/>ly<note place="margin">
+                  <hi>Hom. Iliad. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Epheſ. 4 6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ariſtot.</hi> Ethic. 8. 11. <hi>Monarchia, in qua uni imperanti reliqui om<g ref="char:EOLhyphen"/>nes ſubjici<g ref="char:EOLhyphen"/>untur, eſt conſenſu om<g ref="char:EOLhyphen"/>nium opti<g ref="char:EOLhyphen"/>mus Reipub. Status Dr.</hi> Prideaux. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Pelic. Tact.</hi> 1.</note> ſafety was in his ſecreſie, and that in his ſole General Ca<g ref="char:EOLhyphen"/>ptain-ſhip; for whoſe ſake, let us for ever think the better of one <hi>Polemic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> Head, and beſt of him: and be, as he therein, for one <hi>Political.</hi>
+            </p>
+            <p>And ſo <hi>Secondly,</hi> See <hi>one head</hi> beſt for one body <hi>Politick</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith the Prince of Poets; Government by many is not good. God would have but one <hi>David,</hi> and but one <hi>Solomon,</hi> and but one of them at once, to be <hi>King of Iſrael.</hi> Nor is there more than <hi>one God</hi> to be King of Heaven. Nor can any Levelling <hi>Common-wealths Man,</hi> without blaſpheming <hi>Gods own way of Governing,</hi> affirm <hi>Popularity</hi> to be ſo good as <hi>Monarchy. Monarchy</hi> by ge<g ref="char:EOLhyphen"/>neral vote has gone for the beſt of States. And <note n="*" place="margin">Vincent Lupan. <hi>Commentar. in Magiſt. &amp; Pr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>ctur. fran<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r.</hi>
+               </note> 
+               <hi>Lupanu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> might well ſay, <hi>quid melius unius principatu?</hi> Whats better then Supremacy in one? It is enough that one be <hi>Magiſter Populi.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith St. <hi>Iames:</hi> Be not many Maſters. Many may do more hurt than good; as many did of late. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaies the Proverb: Many Ru<g ref="char:EOLhyphen"/>lers ruined <hi>Caria.</hi> And by many Maſters of Miſrule this Land
+<pb n="27" facs="tcp:64604:16"/> was near its utter Ruine. When <hi>Adrianus Caeſar</hi> had found<note place="margin">Godwin's Rom. Antiq. Eraſm. A<g ref="char:EOLhyphen"/>pothegm. lib. 6.</note> his errour of having many <hi>Phyſicians,</hi> he alluded to that <hi>Greek</hi> Proverb ſaying, <hi>Turba medicorum perdidit Caeſarem:</hi> A Committee of Doctours have killed <hi>Caeſar.</hi> So did our many <hi>State Phyſicians,</hi> and worſe; for they murthered CHARLES <hi>the Firſt,</hi> our <hi>Engliſh Caeſar.</hi> God keep the Land for ever from ſuch Phyſicians of State. Let their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be ſtrongly deteſted of all: cruel <hi>Phlebotomie!</hi> Who but ſuch a Colledge would have cut off the Head to cure the Body? for their ſakes let us ever beware of many Ty<g ref="char:EOLhyphen"/>rants. The poor <hi>Athenians</hi> ſmarted, when <hi>Thirty</hi> domi<g ref="char:EOLhyphen"/>neered.<note place="margin">Frieg. Queſt. Polit.</note> 
+               <hi>Oligarchical</hi> Powers were never ſafe; but oft times grievous to be born. So <hi>Rome</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound it, when that<note place="margin">
+                  <hi>Vellius Pater<g ref="char:EOLhyphen"/>cul. Roman Hiſt. lib.</hi> 2. Lucan <hi>Pharſal. l.</hi> 1.</note> 
+               <hi>Triumvirate</hi> of <hi>Caeſar,</hi> and <hi>Pompey,</hi> and <hi>Craſſus,</hi> acted moſt like it ſelf. Then <hi>Lucan</hi> could ſay, <hi>Nulla fides regni ſociis.</hi> There is no faith in fellowſhips of a Kingdome; for every ſupream Power is ever impatient of a Partner.</p>
+            <p>
+               <hi>Nec fert Pompeiuſve parem, Caeſarve priorem.</hi> Proud <hi>Pompey</hi> could not endure an Equal; nor <hi>Caeſar</hi> a Su<g ref="char:EOLhyphen"/>periour; yet <hi>Pompey</hi> was Popular, and ſeemed to act by a <hi>ſelf-denying Ordinance,</hi> as <hi>Statiſts</hi> do, when their deſignes<note place="margin">
+                  <hi>See</hi> Plutar. <hi>in vit. Pomp.</hi>
+               </note> be meerly ſelfiſh: But his ambition was too great to content himſelf with the ſtile of <hi>Pompey the Great. Pompeius Ma<g ref="char:EOLhyphen"/>ximus</hi> was his leaſt and loweſt aime: He liked no <hi>Caeſar</hi> be<g ref="char:EOLhyphen"/>ſides<note place="margin">
+                  <hi>See St.</hi> Aug.</note> himſelf; nor could <hi>Caeſar</hi> abide to be leſſe than him<g ref="char:EOLhyphen"/>ſelf.<note place="margin">
+                  <hi>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Civitate Dei l. 3 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 6. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> primi madu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>runt ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne muri<g ref="char:punc">▪</g>
+                  </hi> Luc <hi>Plarſ. <gap reason="illegible" resp="#APEX" extent="3 words">
+                        <desc>〈◊◊◊〉</desc>
+                     </gap> T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bais petenda e<g ref="char:EOLhyphen"/>rant ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<g ref="char:EOLhyphen"/>pl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arnab. in</hi> Lucan.</note> 
+               <hi>Aut Caeſar, aut nullus,</hi> was each of their aims; and ſo into factions they parted, a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Supremacy-partners uſe to do. <hi>Rome</hi> might have known the cruel impatience of ſuch Partnerſhips, by that of <hi>Romulus</hi> and <hi>Rh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mus.</hi> And <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>L<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> can</hi> needed not to ramble from <hi>Rome</hi> for Inſtances; nor <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thither. Our own <hi>Chronicles</hi> abound, and I need there in to look no farther than the Race of King <hi>Brutus,</hi> from whom this Iſland took the Name of <hi>Britany,</hi> for that of
+<pb n="28" facs="tcp:64604:17"/> 
+               <hi>Albion.</hi> There I have read more than once thoſe memora<g ref="char:EOLhyphen"/>ble Inſtances of <hi>Manlius,</hi> and <hi>Mempritius;</hi> and of <hi>Mor<g ref="char:EOLhyphen"/>gan,</hi>
+               <note place="margin">See the A<g ref="char:EOLhyphen"/>bridgement of the Chronicle of <hi>England</hi>
+               </note> and <hi>Cunidagius;</hi> and of <hi>Ferrer</hi> and <hi>Porrer,</hi> who fell from Ruling together, to ruining one another for ſole Su<g ref="char:EOLhyphen"/>premacy, till <hi>Ferrer</hi> ended his dayes, and <hi>Porrer</hi> that Royal Race of <hi>Brutus</hi> ſoon after. So fatal it has been to have the Kingly Power of this Land divided. Nor has it been leſſe fatal to have this Kingdome divided into many, as by the <hi>Saxons</hi> into <hi>Seven.</hi> The Land was never ſo bleſſed, as ſince<note place="margin">See <hi>Cambd. Britan.</hi>
+               </note> that <hi>Heptarchy</hi> was turned to a <hi>Monarchy.</hi> Not many, but one Supream felicifies a Land. <hi>Homer</hi>'s advice to <hi>Greece</hi> was ever<note place="margin">
+                  <hi>Hom. Iliad.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> as apt for <hi>England,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Let their be one Lord Paramount, one King. One puts by emulations;<note place="margin">Claud. Dub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Orat. in la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> l. Reg. Dignita.</hi>
+               </note> as <hi>Dubrelius</hi> truely ſayes. And for the Peace of the Land, now bleſſed be the Authour of Kingſhip, we have a King, and but one now. It is again a <hi>Monarchy,</hi> as it ſhould be; and ſo <hi>terra beata.</hi> That's the <hi>Second.</hi>
+            </p>
+            <p>And <hi>Thirdly,</hi> to bleſſe us more and more, God hath re<g ref="char:EOLhyphen"/>ſtored our right King to us. We have our own King once again; not an Intruder, but the lawfull <hi>Heir,</hi> given us by him, who made him for us. One born for <hi>England:</hi>
+               <note place="margin">
+                  <hi>Hom. Iliad. Ariſt. Ethic. lib 8. c. 11. Vt gregem.</hi> Pſal 77. 20. O <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> John 10. 11. verſ. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> verſ. 1. <hi>Princeps Pa<g ref="char:EOLhyphen"/>ſtorum.</hi> 1 Pet. 5 4.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as <hi>Homer</hi> ſtiled his <hi>Agamemnon;</hi> The Shepherd of the People; appointed of God without doubt, to <hi>lead his people like a flock.</hi> And like <hi>the good Shepherd</hi> his entrance into his ſheepfold was by the <hi>right way</hi> of <hi>Royal Right:</hi> that's <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>by the door.</hi> Not like that late Intruder, who <hi>climbed up ſome other way:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the ſame was a thief and a robber.</hi> But thanks to him who is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Our righteſt leader is returned in peace; though that <hi>In<g ref="char:EOLhyphen"/>truder</hi> was fetch't away in a <hi>bluster.</hi> Long may our wel<g ref="char:EOLhyphen"/>come Shepherd lead the flock; <hi>Whoſe own the ſheep are,</hi>
+               <note place="margin">See <hi>Ariſt.</hi> Ethic. lib. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, cap. 12.</note> 
+               <hi>and he careth for the ſheep.</hi> No <hi>Protector</hi> to an <hi>own King,</hi> An own King takes the <hi>good</hi> of his Kingdome for his <hi>own;</hi>
+               <pb n="29" facs="tcp:64604:17"/> and mindes <hi>rem populi</hi> as his own. But own advantage,<note place="margin">Freigii <hi>Quaeſt. Pol.</hi> Ariſtot. <hi>Politic. l.</hi> 5. Dona<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Acciaiol. <hi>Commentat. in</hi> Ariſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it.</hi> Oſorius <hi>de Regis Inſtit. &amp; Diſcipl. lib.</hi> 3.</note> own intereſt is the aim of Intruders and of Tyrants; as <hi>Freigius</hi> notes, with <hi>Ariſtotle.</hi> And what was it but <hi>pro<g ref="char:EOLhyphen"/>prium commodum,</hi> that the late ſelf-minders miſcalled <hi>The Good old Cauſe.</hi> No Tyrants to ſuch intruding Saint ſeemers: They commonly blaſphemed our Noble Sovereign with the nick name of <hi>Young</hi> Tarquin; but were themſelves the <hi>proud Raviſhers.</hi> They raviſhed the Body of his <hi>Pol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tical Lucretia:</hi> they raviſhed his Kingdome, his Royal Palace, and his Princely Revenues. And thoſe <note n="*" place="margin">
+                  <hi>By Pro<g ref="char:EOLhyphen"/>clamat. a<g ref="char:EOLhyphen"/>gainſt Seque<g ref="char:EOLhyphen"/>ſtrations, 1643. all Intruders were pro<g ref="char:EOLhyphen"/>claimed Ab<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ors of Treaſon againſt K.</hi> Charles <hi>the 1. who was traiter<g ref="char:EOLhyphen"/>ouſly mur<g ref="char:EOLhyphen"/>dered.</hi>
+               </note> 
+               <hi>Intruding Pul<g ref="char:EOLhyphen"/>piteers,</hi> who <hi>Pimping</hi> for them (as ſome <hi>ſerving men</hi> uſe to doe, to debauch <hi>Young Maſters</hi>) were Raviſhers too, and taught them firſt the way by raviſhing all the <hi>faireſt Per<g ref="char:EOLhyphen"/>ſonages</hi> in the Land with violent and <hi>adulterate ſequeſtra<g ref="char:EOLhyphen"/>tions;</hi> embracing <hi>filthy Lu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re,</hi> if not <hi>fair Lucretia</hi> too; and taking to themſelves the Bodies of other men's Eſtates, without taking care for the eſtates of thoſe other men's bodies; quite forgetting the <note n="a" place="margin">Acts 3. 13</note> 
+               <hi>time of Reſtitution of all things;</hi> and as little dreaming of ſuch a time as this for the Reſtitu<g ref="char:EOLhyphen"/>tion of ſome things. But bleſſed be that <note n="b" place="margin">Dan. 7. 9, 13.</note> 
+               <hi>Ancient of dayes</hi> for reſtoring theſe dayes ſo like to thoſe of old. The Land begins to be like it ſelf again, by it's own King, <hi>beata terra.</hi> That's the Third.</p>
+            <p>The <hi>Fourth</hi> is the Crown of all the former<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and moſt of all felicifies the Land. It is that we have a <hi>Royal Soveraign,</hi>
+               <note place="margin">
+                  <hi>See</hi> Ari. Montan. <hi>See</hi> Vatabl. <hi>See</hi> T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em. <hi>&amp;</hi> Iun. <hi>See</hi> S. Ie<g ref="char:EOLhyphen"/>rome <hi>See alſo Dr.</hi> Craken<g ref="char:EOLunhyphen"/>thorp. <hi>Ser.</hi> 2 Chron. 9. 5, 6, 7.</note> a right King; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the ſon of Nobles.</hi> Here the <hi>Preacher</hi> puts the <hi>Emphaſis; Bleſſed art thou, O Land, when thy King is the ſon of Nobles.</hi> Some take it <hi>literally,</hi> as <hi>Montanus</hi> renders it, <hi>filius Heroum,</hi> and <hi>filius Nobilium;</hi> the ſame with our <hi>Engliſh,</hi> and <hi>Vatablus</hi> means the ſame by <hi>filius Candido<g ref="char:EOLunhyphen"/>rum;</hi> and ſo does <hi>Tremellius</hi> by <hi>natus clariſsimis.</hi> Others take it for a <hi>figurative</hi> Phraſe: the <hi>ſon of Nobles,</hi> for truly Noble. So S. <hi>Ierome</hi> has it, <hi>beata terra, cujus Rex nobilis eſt.</hi>
+               <pb n="30" facs="tcp:64604:18"/> But I muſt not dilate upon the <hi>Grammar</hi> of the words. Two things, I conceive, come under the ſenſe.</p>
+            <list>
+               <item>1. That he be <hi>Rex Nobilis,</hi> a Noble King.</item>
+               <item>2. That he be <hi>Rex Natu,</hi> a King by ſucceſſion, as <hi>ſon of Nobles.</hi>
+               </item>
+            </list>
+            <p>Firſt, a Noble King: and a King may be ſo, by <hi>Extra<g ref="char:EOLhyphen"/>ction,</hi> or <hi>Education,</hi> or <hi>Diſpoſition.</hi> Nobly born, nobly bred, nobly minded. He is moſt truly noble, that is ſo all three wayes. And thats the Nobleneſſe that ſo felicifies this Land. See it in all three ſeverally.</p>
+            <p>Firſt, by <hi>Extraction;</hi> the primary meaning of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Son of Nobles:</hi> ſuch a ſon ſhip is an Happineſſe to a kingdome, and an Honour to a King; although <hi>Malvezzi,</hi> to magni<g ref="char:EOLhyphen"/>fie<note place="margin">Malvez. <hi>Romul. &amp; Tarquin.</hi>
+               </note> his <hi>Romulus,</hi> and vilifie his <hi>Tarquin</hi> affirms, that he is not glorious, that is born a Prince, but he that becomes one. By his good leave, and without it too, we muſt needs honour Noble Birth, and deem it glorious to be nobly born; moſt glorious to be born a Prince. We muſt <hi>give honour, to whom honour is due,</hi> and <hi>unto</hi> Caeſar <hi>the things</hi>
+               <note place="margin">Rom. 13. 7 Mat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. 22. 21.</note> 
+               <hi>that are</hi> Caeſar'<hi>s;</hi> and honour is his, even from his <hi>Birth:</hi> the prime part of <hi>Royal Birth-right.</hi> The Text aſſerteth the Land's bleſſedneſſe according to the King's Nobleneſſe, and this according to his Birth; the <hi>Son of Nobles.</hi> And it is remarkable, that it ſayes not <hi>Herois,</hi> in the Singular Number; but <hi>Heroum,</hi> in the Plural; <hi>of Nobles.</hi> Which may be ſeveral wayes.</p>
+            <p>Firſt, in reſpect of both the immediate Parents. He that was of an <hi>Hebrew father,</hi> or an <hi>Hebrew mother,</hi> was ac<g ref="char:EOLhyphen"/>counted<note place="margin">Godwin'<hi>s Moſes and Aaron. lib. 1. cap.</hi> 3.</note> an <hi>Hebrew.</hi> But he that was of ſuch a Father and ſuch a Mother, was called an <hi>Hebrew of the Hebrews;</hi> as S. <hi>Paul</hi> writes himſelf, <hi>Philip.</hi> 3 5. ſo he that is of a Noble Father, or a Noble Mother may be deemed ſome way No<g ref="char:EOLhyphen"/>ble; but he that is of both Noble, is Noble of Nobles <hi>filius Nobil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um.</hi> That's the firſt, but the leaſt.</p>
+            <pb n="31" facs="tcp:64604:18"/>
+            <p>
+               <hi>Secondly, Son of Nobles</hi> may be in reſpect of ſeveral deſcents on either ſide, or of ſeveral deſcents on both. The laſt is far moſt Honourable; and that's the Nobleneſſe of our <hi>Charles</hi> the 2. the <hi>Son of Nobles</hi> by many and many deſcents on both ſides.</p>
+            <p>
+               <hi>Firſt,</hi> on his Royal Fathers ſide, deſcended from many and many moſt Noble Kings of ſeveral Kingdomes, and of all the moſt Noble Races in this. When the Race of King <hi>Henry</hi> the 8. was ended with Queen <hi>Elizabeth,</hi> Pretences were made by divers to the Crown of <hi>England:</hi> but after due enquiries made, they were all found in the <hi>Royal Grand<g ref="char:EOLhyphen"/>father</hi> of our <hi>moſt noble Charles</hi> the 2. And when the Bu<g ref="char:EOLhyphen"/>ſineſſe of <hi>Recognition</hi> was on foot in the Parliament <hi>Tertio Iacobi,</hi> it was made evident by that Renowned <hi>Earl of Northampton,</hi> that the Pretences of the <hi>Britains</hi> from <hi>King</hi>
+               <note place="margin">The right Honorable Earl of <hi>Northam<g ref="char:EOLunhyphen"/>pton</hi>'s Speech for that Reco<g ref="char:EOLhyphen"/>gnition. M. S.</note> 
+               <hi>Brutus,</hi> were in <hi>King Iames,</hi> as from <hi>Cadwallo.</hi> Thoſe of the <hi>Scots</hi> by <hi>Fergus;</hi> thoſe of the <hi>Picts,</hi> by the daughter of <hi>Hengiſt;</hi> thoſe of the <hi>Saxons,</hi> by the ſiſter of <hi>Edgar;</hi> thoſe of the <hi>Danes,</hi> by the daughter of <hi>King Chriſtian;</hi> and thoſe of the <hi>Normans,</hi> by <hi>Margaret,</hi> eldeſt daughter to <hi>King Hen<g ref="char:EOLhyphen"/>ry</hi> the 7. in whom the <hi>Red</hi> and <hi>White Roſes</hi> were moſt ſweet<g ref="char:EOLhyphen"/>ly damasked: <hi>York</hi> and <hi>Lancaſter</hi> well united, by that hap<g ref="char:EOLhyphen"/>py Match of <hi>Henry</hi> the 7. Son to the Noble <hi>Earl of Rich<g ref="char:EOLhyphen"/>mond,</hi> and <hi>Elizabeth</hi> eldeſt daughter to <hi>Edward</hi> the 4. from whom came <hi>Prince Arthur,</hi> who died young; and <hi>Henry</hi> the 8. whoſe Race ended in <hi>Queen Elizabeth,</hi> and left the <hi>Royal Dignities</hi> to the Race of Princeſſe <hi>Margaret</hi> by <hi>Iames</hi> the 4. of <hi>Scotland;</hi> and ſo they became the Royal Birth<g ref="char:EOLhyphen"/>rights to <hi>King Iames</hi> the firſt of <hi>England,</hi> and ſixth of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> and ſo to our moſt <hi>Royal Soveraign, Charles</hi> the 2. the righteſt <hi>Lineal Deſcendant.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by many moſt noble De<g ref="char:EOLhyphen"/>ſcents on that ſide of his Royal Father.</p>
+            <p>
+               <hi>Secondly,</hi> the <hi>Son of Nobles</hi> alſo, as deſcended from ma<g ref="char:EOLhyphen"/>ny
+<pb n="32" facs="tcp:64604:19"/> Races of <hi>French Kings,</hi> by that moſt <hi>Noble Daughter of France,</hi> his Royal <hi>Queen Mother.</hi> An Honour of no little eſtimate; but ſo highly valued, as there is almoſt no Nation,<note place="margin">Lupan, <hi>Commen. de Magistr. &amp; Traeſectur. franc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. Praefat.</hi>
+               </note> ſaith <hi>Lupanus, quae non ad francos Reges originem referat, adeo magnum <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt fortibus naſci:</hi> which derives not ſome honour from <hi>French</hi> Kings, ſo much it is to be of ſuch con<g ref="char:EOLhyphen"/>ſanguinity. Were it feaſible in a Sermon to ſhew you all the ſtreams of Royal Bloud, that have flowed into the No<g ref="char:EOLhyphen"/>bleſt Veines of our moſt <hi>Noble Charles</hi> the 2. from all the high born Kings and Queens on all ſides in all deſcents, you could not but moſt highly honour his Nobleneſs by Extra<g ref="char:EOLhyphen"/>ction; and think it no <hi>Hyperbole,</hi> but his <hi>Birth-right,</hi> to be<note place="margin">
+                  <hi>Gwillim's</hi> Diſplay of Heraldry. Sect 6. c. 7.</note> ſtiled <hi>the Noblest King in Chriſtendome,</hi> as that <hi>Herauld</hi> ho<g ref="char:EOLhyphen"/>nours him; and worthieſt of all the Honours that Loyal Subjects can do a Soveraign, who is in <hi>Solomon</hi>'s righteſt ſenſe, <hi>The Son of Nobles.</hi>
+            </p>
+            <p>The <hi>Second</hi> way of Nobleneſſe is by <hi>Education,</hi> or <hi>Inſti<g ref="char:EOLhyphen"/>tution;</hi> a Nobleneſſe that God himſelf looks after. For when he deſigned <hi>Moſes</hi> to be Ruler of his People <hi>Iſrael,</hi> he preordained his <hi>Education</hi> to be in the <hi>Court of Egypt;</hi> and not as a ſervant there, but as the ſon of a Noble Prin<g ref="char:EOLhyphen"/>ceſſe,<note place="margin">Acts. 7. 21, 22.</note> who nouriſhed him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith St. <hi>Luke, as her own Son;</hi> and ſo <hi>he was learned in all the Wiſdome of the</hi>
+               <note place="margin">
+                  <hi>Deus effecit ut adoptare<g ref="char:EOLhyphen"/>tur à fil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a Pharaonis.</hi> Macar. <hi>Homil.</hi> 9.</note> 
+               <hi>Egyptians.</hi> A Prince-like Inſtitution, and merely by Di<g ref="char:EOLhyphen"/>vine appointment, as <hi>Macarius</hi> well obſerveth. Nor would God have <hi>David</hi> to be a <hi>King,</hi> before he had been a <hi>Cour<g ref="char:EOLhyphen"/>tier,</hi> and that not merely as one of <hi>King Saul</hi>'s Retinue; but as of <hi>Royal Affinity, Son in Law to the King;</hi> no light matter; as <hi>David</hi> himſelf hinted to the ſervants of <hi>Saul, 1 Sam.</hi> 18. 23. But ſo he was to prepoſſeſs him with a Noble Spirit, by Nobleneſſe of Inſtitution. Such regard has God himſelf to Noble Education. Nothing more needfull for improving innate Inclinations to Noble Mindedneſſe. And ſuch In<g ref="char:EOLhyphen"/>clinations
+<pb n="33" facs="tcp:64604:19"/> uſe to be in Noble Extractions; ſeminals of right Nobleneſſe. When Noble Birth and Noble Breed<g ref="char:EOLhyphen"/>ing<note place="margin">Nicho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>de</hi> Ly<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a <hi>in hunc Verſ.</hi> Dionyſ. Carthuſ. <hi>in L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cum.</hi>
+               </note> meet, as they ſhould, they make right Noble indeed; as <hi>Lyra</hi> notes: <hi>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cem ornant,</hi> ſayes <hi>Dionyſius Carthuſia<g ref="char:EOLhyphen"/>nus,</hi> they mutually adorne each other; like a precious Gem in an Ornament of gold. The Gold of Noble Extra<g ref="char:EOLhyphen"/>ction is ever fitly adorned with the Gem of Noble Educa<g ref="char:EOLhyphen"/>tion; and right it is for both to be deemed precious. <hi>Gold</hi>
+               <note place="margin">D. Ba<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hol. Chaſſan. <hi>de Glor. Mu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> par.</hi> 8.</note> is ſo even from the very Mine, and ſo <hi>Nobility</hi> from the Wombe; for as <hi>Chaſsanaeus</hi> ſayes, <hi>Nobilitas tranſit in fili<g ref="char:EOLhyphen"/>os in infinitum.</hi> The honour of Noble Birth for ever de<g ref="char:EOLhyphen"/>ſcends, and that of Noble Breeding ſhould ever aſcend. Noble Temperaments be in Noble Extractions, and No<g ref="char:EOLhyphen"/>ble Tendencies in ſuch Temperaments; and ſuch tenden<g ref="char:EOLhyphen"/>cies be eaſily heightened with right Inſtitutions. Well therefore might the Preacher beſtow the Honour of the Text upon <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The ſon-ſhip of Nobility has the ſtart of others to be bettered by Noble Breeding. And Noble<g ref="char:EOLhyphen"/>neſs of Breeding ſhould ever follow that of Birth. And it is<note place="margin">
+                  <hi>By I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tion, in vir<g ref="char:EOLhyphen"/>tue, wiſe<g ref="char:EOLhyphen"/>dom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and poli<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> which Education Son<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of No<g ref="char:EOLhyphen"/>bles, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpeci<g ref="char:EOLhyphen"/>ally ought to have</hi> Pemb. <hi>Analyt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cal expoſ.</hi> a. <hi>i. e.</hi> Paci<g ref="char:EOLhyphen"/>ficus ſive pacatus, <hi>Eucherius de Nom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>br. S.</hi> Hieron. <hi>Interp. Nom.</hi> Mat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</note> not unlikely, but <hi>Solomon</hi> might have an Eye to Nobleneſs of Breeding, in aſſerting what he does of <hi>the Son of Nobles:</hi> who ſo eyes the <hi>Education</hi> of our right <hi>a Solomon,</hi> may ſee him heightened by it to the <hi>Zenith</hi> of right Nobleneſs, ad<g ref="char:EOLhyphen"/>vantaged by <hi>Inſtitutions,</hi> by <hi>Afflictions,</hi> and by <hi>Interceſsions.</hi>
+            </p>
+            <p>Firſt of <hi>Inſtitutions,</hi> both Civil and Sacred; theſe by ſuch a <hi>Church-Diſcipline,</hi> thoſe by ſuch a <hi>Court-Diſcipline,</hi> as could not but ſeaſon him rightly for Court and Church<g ref="char:EOLhyphen"/>Concernments. His Tutors in both were more than Or<g ref="char:EOLhyphen"/>dinary; and his Inſtitutions by more than Tutors. No <hi>Vives,</hi> no <hi>Coxe,</hi> no <hi>Aſcham</hi> could have inſtilled better Principles into his Noble ſoul, then have been by Tutors, nor any <hi>Bachanan</hi> ſo good. Much leſs could <hi>Aristotle,</hi> or <hi>Pl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to,</hi> or <hi>Sen<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a,</hi> have bettered the ſame: though famous
+<pb n="34" facs="tcp:64604:20"/> Tutors to great Princes. And I may tell you, that his No<g ref="char:EOLhyphen"/>bleneſſe of Education derives not all advantages, nor moſt, from Tutors, though moſt able; but from a moſt Royal and moſt Religious Father, of ever bleſſed Memory, <hi>in quo inſtar omnium auxiliorum erat;</hi> who could doe, and did as much as all beſides, and much more. His Moods and Methods were like himſelf, moſt truly Noble: witneſſe<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chap.</hi> 27.</note> that part of his <hi>Royal Likeneſſe,</hi> entituled, To <hi>the Prince of Wales.</hi> And witneſſe thoſe Effects which verifie S. <hi>Auſtin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> touching Diſcipline, who ſayes, it is <hi>Magiſtra Religionis &amp;</hi>
+               <note place="margin">S. Auguſt. <hi>Serm</hi> 52.</note> 
+               <hi>verae pietatis,</hi> the Tutoreſs of Religion, and real Piety. What pious and prudent Counſels were given <hi>viva vo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> I preſume not to turn into <hi>Traditions.</hi> But my thoughts are of what, <hi>being dead, he yet ſpeaketh,</hi> by his <hi>even inſpir<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> Pen. That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is ſtill <hi>pictural quens,</hi> and will for e<g ref="char:EOLhyphen"/>ver ſpeak moſt <hi>Royal Inſtitutions,</hi> and other Oraculous E<g ref="char:EOLhyphen"/>nunciations; ſuch as have conduced to the making of his Majeſty <hi>CHARLES le Bon,</hi> and <hi>CHARLES le Grand;</hi> * Great in Goodneſſe, and Good in Greatneſſe.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ariſt. Eth. Lib. 5. c. 1. Secundum <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ian<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em.</hi> 
+                  <g ref="char:punc">▪</g>H <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. S. Chryſ. <hi>Hom. 17. ad Popul. An<g ref="char:EOLunhyphen"/>tioch.</hi> Rom. 5. 3, 4 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> The <hi>Mirrour</hi> of Nobleneſſe by right Inſtitutions.</p>
+            <p>And ſecondly, his <hi>Nobleneſſe of Education</hi> has been bet<g ref="char:EOLhyphen"/>tered much in the <hi>School of Afflictions;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God himſelf, for divers yeares, was pleaſed to School him with the <hi>Severer Diſcipline</hi> of ſad Providences. And with his <hi>Rod</hi> and <hi>Ferula</hi> hath ſurely beaten in the beſt of Wiſe<g ref="char:EOLhyphen"/>dom, even that which is <hi>Experimental: For Tribulation worketh patience, and patience Expertence,</hi> ſaith the Apoſtle. And to that his royal Father might allude in ſaying to him, <hi>He had the advantage of wiſdome above moſt Princes, in that he had ſpent ſome yeares of diſcretion in the experience of Trou<g ref="char:EOLhyphen"/>bles, and exerciſe of Patience.</hi>
+            </p>
+            <p>And thirdly, his <hi>Nobleneſs of Education</hi> was alſo advanta<g ref="char:EOLhyphen"/>ged much by Interceſſions to God for him. Some by Loyal
+<pb n="35" facs="tcp:64604:20"/> people in private Devotions well watered with tears; and others in publick, by Loyal Pulpits, conſigned and ſealed with earneſt <hi>Amens</hi> of the like Congregations; beſides the <hi>Prayers and Tears</hi> of ſuch a father as ſurely <hi>availed much.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Iam.</hi> 5. 16.</note> Well might the ſeeds of his Pious Nobility, and Noble Piety thrive, being ſo well watered. It was rightly ſaid to <hi>M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nica,</hi> as touching her Son <hi>Auguſtine,</hi> that the ſon of ſo ma<g ref="char:EOLhyphen"/>ny <hi>Prayers</hi> and <hi>Tears,</hi> in all probability could not be for e<g ref="char:EOLhyphen"/>ver loſt. And who could expect any leſſe, than, that God, in his due time, ſhould bleſſe our Soveraign on better means; and make him a bleſſing? A right noble ſoul he has made him, by ſuch right means.</p>
+            <p>Now the laſt kind of Nobleneſſe is that of <hi>diſpoſition, Noble Mindedneſse;</hi> the very <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of Royal Dignity, and Crown of both the former. By this a King makes good the Nobility of his Birth, and Honours of his Royal Proge<g ref="char:EOLhyphen"/>nitors; and proves the Text moſt true. By this he becomes a Bleſſing indeed unto his Subjects. <note n="a" place="margin">Hug Car<g ref="char:EOLhyphen"/>dina. in Locum.</note> 
+               <hi>Hugo Cardina<g ref="char:EOLunhyphen"/>lis</hi> expounds the Text of this, as the only right felicify<g ref="char:EOLhyphen"/>ing Nobleneſſe. And <note n="b" place="margin">Diodati Annotat. in hunc verſ.</note> 
+               <hi>Diodate</hi> takes him only for <hi>the Son of Nobles</hi> in <hi>Solomon</hi>'s ſenſe, who bears a Noble Mind. But <note n="c" place="margin">
+                  <hi>Carnis pro<g ref="char:EOLhyphen"/>pagine &amp; virtutum praeclar<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>te.</hi> Dionyſ. Ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thu. <hi>in Locum.</hi>
+               </note> 
+               <hi>Dionyſius Carthuſianus</hi> rightly thinks him moſt truely ſo, that is Noble by Nobleneſſe of ſtock, and alſo by a ſtock of Nobleneſſe in himſelf, a Noble ſtock of Heroick Virtues. Now this it is that beautifies our King, and beautifies his Kingdomes Yea this has crowned him already, and ren<g ref="char:EOLhyphen"/>dred him moſt worthy of that <hi>Royal Diadem</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow ready for for him. It is this Nobleneſſe that inclines him ſo to <hi>Acts of Grace,</hi> as the like did <note n="d" place="margin">
+                  <hi>Philip</hi> of <hi>Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edon</hi>'s Life, by S. <hi>G. S.</hi> at the end of thoſe by <hi>Plu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar.</hi>
+               </note> 
+               <hi>Philip</hi> of <hi>Macedon;</hi> and makes him reſolute with <note n="e" place="margin">See <hi>Plut. in vit Alex. S Ambr. in Apolog. 1. David. c.</hi> 6.</note> 
+               <hi>Alexander the Great,</hi> that nothing can be more Noble than to do well to them that have deſerved ill <hi>S. Ambroſe</hi> thought it <hi>grande inventum</hi> in King <hi>David</hi> ſo to bear the bitter words of one bold railing <hi>Shimei.</hi> What
+<pb n="36" facs="tcp:64604:21"/> is it then in our Soveraign, to forgive both the <hi>Lying</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od. lib 9. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 36. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ani<g ref="char:EOLhyphen"/>mi proprium eſt p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acidum <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ranq<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umq<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ac <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>jurias &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſu<g ref="char:EOLhyphen"/>perand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> de<g ref="char:EOLhyphen"/>ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cere.</hi> Senec. <hi>de Clemen. 1. 3. S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Volater. Anthrop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>log. lib. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>utar in Ariſtide.</hi>
+               </note> 
+               <hi>Tongues</hi> and <hi>Libelling Pens</hi> of many <hi>Shime<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> and many <hi>Shebaes,</hi> and many <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bſhakehs,</hi> guilty of Crimes no leſs than <hi>Capital</hi> by <hi>Imperial Laws;</hi> and not only to forgive them, but to practice the <hi>Art of Forgetting</hi> them too. <hi>Bleſſed all thou, O Land,</hi> in a King ſo Nobly diſpoſed, as to bury ten thouſand Acts of Rebellion in one <hi>Royal Act of Obliv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Out acting that <hi>Aristides</hi> himſelf, ſo renowned for not re<g ref="char:EOLhyphen"/>membring his malignant enemies that had exlled him. In<g ref="char:EOLhyphen"/>deed his exilement was only by an <hi>Oſtraciſme;</hi> and that ever was <hi>pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erto tempore,</hi> and commonly <hi>cum honore;</hi> a Rele<g ref="char:EOLhyphen"/>gation to ſome certain place for ten or fifteen years at moſt But our Soveraigns profligation, or proſcription, or cru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ller perſecution, was on worſe tearms, yet pardoned on<note place="margin">
+                  <hi>1 Pet. 2. 23. Cum enim Princeps vir<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ibus divinis <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>natus, ad r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mp. guber<g ref="char:EOLhyphen"/>nandam ac<g ref="char:EOLhyphen"/>ceſſerit, non homo, ſed Deus ipſe remp. illam gubernabi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Deus enim in pectore ſancti prin<g ref="char:EOLhyphen"/>cipis inclu<g ref="char:EOLhyphen"/>ſus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um mo<g ref="char:EOLhyphen"/>vebit; &amp; facile<g ref="char:punc">▪</g> in ſtu<g ref="char:EOLhyphen"/>dium publi<g ref="char:EOLhyphen"/>cae ſalutis impellet.</hi> Hieron. <hi>Oſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rius Luſi<g ref="char:EOLhyphen"/>tan. de Reg Instit. &amp; diſcip. l.</hi> s.</note> better Principles. His greater indignities born, not only <hi>animo civili,</hi> with that Worthy in <hi>Su<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> but <hi>animo <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>leſti,</hi> with that Worthy of Worthies in St. <hi>Peter, Who when he was reviled, reviled not again, when he ſuffered, threatened not; but committed himſelf to him that judgeth righteouſly.</hi> And it is not only Noble mindedneſſe, but Heavenly mind<g ref="char:EOLhyphen"/>edneſſe too in his Sacred Majeſty to have men live and mend. A diſpoſition that proves him both <hi>the Son of No<g ref="char:EOLhyphen"/>bles,</hi> according to his <hi>firſt Birth,</hi> and the <hi>Son of God</hi> accor<g ref="char:EOLhyphen"/>ding to his <hi>Second.</hi> Of <hi>Civil</hi> and <hi>Sacred</hi> Nobleneſſe too. It is his great Honour; and our great Happineſſe that by <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ture</hi> he is <hi>ſatus ſanguine Diûûm;</hi> the Son of <hi>England's Mor<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> Gods: but his greater Nobleneſſe, and <hi>Englands</hi> greater Happineſſe, that by <hi>Grace</hi> he is <hi>renatus ſanguine Chriſti;</hi> a Son of God <hi>Immortal,</hi> every way right Noble, according to that <hi>first</hi> acceptance of <hi>the Son of Nobles.</hi>
+            </p>
+            <p>The Second is, that a King be ſo by <hi>ſucceſsion;</hi> born a King. A point that merits more Obſervance, and a more deliberate Treatiſe, that can be miniſtred in a breath or two
+<pb n="37" facs="tcp:64604:21"/> at the very laſt gasp of a Sermon. Yet I muſt be at a very point with it: otherwiſe I might at large have related how <hi>I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stus Lipſius</hi> treating of Kings by <hi>El<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction,</hi> and Kings by<note place="margin">Lip<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Monit. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t. l. 2. c.</hi> 3. 4.</note> 
+               <hi>Succeſsion,</hi> upon juſt reaſon, rejected Election, and electeth Succeſſion. And ſo muſt all that will yield to Reaſon, or to Religion. The Word of God aſcribes the Bleſſedneſſe of a Land to a King by ſucceſſion, or a King by Birth, <hi>the Son of Nobles.</hi> And the common Courſe of Goe hath e<g ref="char:EOLhyphen"/>ver been to annex the Adminiſtration of National Bleſſed<g ref="char:EOLhyphen"/>neſſe to ſome Princely Tr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>be ennobled for that purpoſe or to ſome certain Race of Kings. So he appointed the No<g ref="char:EOLhyphen"/>ble <hi>Tribe of Iudah,</hi> with a promiſe that <hi>the Scepter ſhould</hi>
+               <note place="margin">Pſal 7<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 68.</note> 
+               <hi>not depart from Iudah, nor a law-giver from between his feet</hi>
+               <note place="margin">Gen. 49. 10.</note> 
+               <hi>till Shiloh came.</hi> So he likewiſe named the Race of <hi>David,</hi>
+               <note place="margin">Pſal. 89. 35, 36. 37.</note> ſaying, <hi>His ſeed will I make to endure for ever, and his Throne as the daies of Heaven<g ref="char:punc">▪</g>
+               </hi> Pſal. 89. 29. and farther declaring himſelf there ſo much for Kingſhip by Royal Birth-right, as that he vows to have it ſo. But ſo he would not have done, had he ſeen election of Kings to be better than ſucceſſion; and he muſt needs have ſeen it, if it had been ſo. And as in <hi>Iſrael,</hi> ſo in other Kingdomes, he hath raiſed ſome certain Families <hi>nearest</hi> to himſelf for the better management of his <hi>Publick</hi> buſineſſe with the people; and for the conduct of Civil Bleſſedneſſe unto them; Denying to bleſſe them by Common Hands. When <hi>Azarias</hi> and that <hi>Ioſeph</hi> ſon to <hi>Zacharias,</hi> in the time of the <hi>Mac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abees,</hi> would needs un<g ref="char:EOLhyphen"/>dertake the procuring of ſome bleſſing of Gods people; God would not bleſſe their undertakings, nor his people by them: <hi>Becauſe they were not of the ſeed of thoſe by whoſe hand deliverance was given to Iſrael;</hi> as it is given for a Rea<g ref="char:EOLhyphen"/>ſon. 1 <hi>Maccab. 5. 62. Quia non erant de ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>min<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> illorum,</hi> &amp;c. Such emulous Undertakers were of late in <hi>England,</hi> who intended, or at leaſt pretended, to ſeek the welfare of the Land: But God would not let the Land fare well by their
+<pb n="38" facs="tcp:64604:22"/> pretences; they were not of his approved Tribe. The ſon of Nobles was not amongſt them. Nor was it his <hi>Poli<g ref="char:EOLhyphen"/>tical Capacity</hi> in a <hi>Notional ſeparation,</hi> but his <hi>Perſonal</hi> in a <hi>National Conjunction,</hi> that God would bleſſe his people by: God would have the <hi>Redeemer of Iſrael</hi> to be born a King; and ſo the <hi>R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deemer of England</hi> too. It is not for nothing, that the <hi>Holy Ghoſt</hi> would the world take notice, that ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Saviours Kingſhip was by ſucceſſion: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Born the King of the Iews.</hi> A King by Royal Birth<g ref="char:EOLhyphen"/>right:<note place="margin">Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th. 2. 2.</note> 
+               <hi>Born with a right to ſit upon the Throne of his Father David,</hi> Iſa. 9. 7. And ſo in Gods ordinary way, his Inſtru<g ref="char:EOLhyphen"/>ments of National Bleſſedneſſe be born with right to be in<g ref="char:EOLhyphen"/>throned. When ſuch be, their People be bleſſed.</p>
+            <p>I ſhall only hint <hi>Two Reaſons</hi> of <hi>Solomon</hi>'s aſſertion, and ſo thank you for your Noble Patience. The <hi>firſt</hi> inferred from the <hi>Common Infelicities</hi> that ariſe with Ignoble Up<g ref="char:EOLhyphen"/>ſtarts; ſuch as be <hi>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vili loco aſſumpti,</hi> exhaled from low Parentages to high Powers, <hi>ut pluries laedunt,</hi> ſaith <hi>Aquinas:</hi>
+               <note place="margin">Aquin. <hi>de Reg. Princip. lib. 4. c.</hi> 19.</note> for the moſt part prove deſtructive.</p>
+            <p>
+               <hi>Aſperius nihil eſt humili cum ſurgit in altum.</hi>
+            </p>
+            <p>None to the beggar on horſeback. <hi>Rome</hi> was never worſe hacknied, then when <hi>Ignoble Vpſtarts</hi> mounted the ſaddle of Imperial Command. When <hi>Op<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lius Macrinus</hi> had<note place="margin">Volateran <hi>Anthropol. lib.</hi> 23.</note> compaſſed the Death of the Emperour <hi>Caracalla,</hi> and cau<g ref="char:EOLhyphen"/>ſed the Souldiers of <hi>his faction, Oliver</hi> like, to chuſe him, though of <hi>ignoble</hi> Birth, to be Emperour, that is, <hi>Stilo novo, Lord Protectour,</hi> he ſoon became of that <hi>Oliverian</hi> Pride and Cruelty, that he plotted the ruine of all that were not<note place="margin">See his <hi>Life</hi> amongſt the <hi>Roman</hi> Empero<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, by <hi>R. B.</hi> See his <hi>Life</hi> alſo, by <hi>R. B.</hi>
+               </note> of his faction; or that would not comply with all his wick<g ref="char:EOLhyphen"/>ed purpoſes. So when <hi>Maximinus</hi> of <hi>ignoble</hi> birth too, was made <hi>Emp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rour</hi> by his <hi>Army Officers,</hi> he alſo ſought the deſtruction of the friends of his late <hi>Soveraign, Alexan<g ref="char:EOLhyphen"/>der Severus;</hi> and as <hi>O. C.</hi> did, overawed the Senate, and
+<pb n="39" facs="tcp:64604:22"/> perſecuted <hi>Chriſtians,</hi> as <hi>Engliſh Proteſtants</hi> were of late<g ref="char:punc">▪</g> Such be the common evils, when ſuch evil <hi>Commons</hi> aſpire<note place="margin">C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trari<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rum co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tra<g ref="char:EOLhyphen"/>riae ſunt cauſae. <hi>Beda</hi>
+               </note> to <hi>Monarchize.</hi> Well therefore might <hi>Solomon</hi> ſay by the rule of Contraries. <hi>Bleſsed art thou, O Land, when thy King is the ſon of Nobles.</hi>
+            </p>
+            <p>The <hi>Second Reaſon</hi> may be from the <hi>National felicities</hi>
+               <note place="margin">Me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and. <hi>in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all.</hi>
+               </note> that ſucceed with <hi>Noble Soveraigns.</hi> 
+               <g ref="char:punc">▪</g>o <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith <hi>Menander; A good man is a common good:</hi> true of every good man; but moſt certainly ſo of every good King: Whoſe greateſt Nobleneſſe cannot but be the Royal Pre<g ref="char:EOLhyphen"/>rogative of greateſt goodneſſe: yea moſt notable Bleſſings to Places and People, have moſtly attended moſt Noble Births. I may inſtance in <hi>Caeſar Auguſtus,</hi> deſcended<note place="margin">
+                  <hi>See his Life written by</hi> S. G. S. <hi>at the end of</hi> Plutarch'<hi>s Live<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> from the Noble <hi>Octavians;</hi> whoſe publick Deſignes <hi>re<g ref="char:EOLhyphen"/>formed</hi> his State with good Lawes, <hi>repaired</hi> the Cities di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apidations; ſo modelled publick Elections, that <hi>honest Truſtees</hi> might be impowered, (as our good Soveraign does with Religious Care, to have ſuch <hi>Burgeſſes</hi> choſen)<note place="margin">
+                  <hi>Iani Tem<g ref="char:EOLhyphen"/>plum ſol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> clauſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Mu<g ref="char:EOLhyphen"/>ſarum ſol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s aperuit.</hi> Emanuel Theſaur. <hi>Caeſ.</hi> Luc. 2. 14.</note> and laboured ſo for a <hi>General Peace,</hi> that he cauſed the <hi>Temple of Ianus</hi> to be ſhut up, as it was that <hi>Third Time,</hi> when the <hi>Prince of Peace,</hi> our Bleſſed <hi>Saviour</hi> came into the world, and was honoured with that <hi>Anglical</hi> Birth. Song, <hi>Glory to God in the high<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, on earth peace, &amp;c.</hi> In ho<g ref="char:EOLhyphen"/>nour of whoſe Birth, that Noble <hi>Auguſtus</hi> erected an <hi>Altar</hi> of Noble ſtructure in the <hi>Roman Capitol</hi> with this Inſcri<g ref="char:EOLhyphen"/>ption; THE ALTAR OF GOD THE FIRST BORN: yea ſuch a Lover of publick good he was noted<note place="margin">Seneca <hi>de Clement. lib. 1. cap.</hi> 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> to be, that he was worthily ſtyled <hi>Pater Patriae.</hi> I may like<g ref="char:EOLhyphen"/>wiſe inſtance in that Noble Emperour <hi>Antoninus Pius,</hi>
+               <note place="margin">
+                  <hi>See his Life written by</hi> R. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>a<g ref="char:EOLhyphen"/>mongſt th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Roman <hi>Emperours.</hi>
+               </note> which <hi>Sir-name</hi> was given him, for <hi>pardoning</hi> many Delin<g ref="char:EOLhyphen"/>quents at his firſt coming to <hi>Imperial Dignity.</hi> A branch of Royal Piety which has no leſſe flouriſhed in our moſt pious Soveraign; for which Clemency, and other Noble Qua<g ref="char:EOLhyphen"/>lities,
+<pb n="40" facs="tcp:64604:23"/> that <hi>Antoninus</hi> was likewiſe called <hi>the Father of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Virtues;</hi> for Placabilitie, Clemencie, Sanctitie, as faith <hi>Vo<g ref="char:EOLhyphen"/>lateran,</hi> he was reputed another <hi>Numa.</hi> I could inſtance al<g ref="char:EOLhyphen"/>ſo<note place="margin">Volate<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Anthropol. lib.</hi> 23.</note> in the noble Emperour <hi>Gratianus,</hi> who did the publick good of <hi>Baniſhing</hi> turbulent Hereticks, of <hi>reducing</hi> others<note place="margin">
+                  <hi>See his Life by</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. B.</note> to the true Religion, and of <hi>repairing</hi> Churches for the publick<g ref="char:punc">▪</g> Worſhip of God. The time failes me to tell you of Noble <hi>Theodoſius,</hi> and his Noble ſon <hi>Arcadius,</hi> and o<g ref="char:EOLhyphen"/>thers that have been Publick Bleſſings to their ſubjects. I muſt end with that Noble Emperour <hi>Iovinianus,</hi> a famous <hi>Defender of the true Faith,</hi> and of ſuch as were faithfull to it; as our <hi>moſt gracious Soveraign</hi> ſhewes himſelf to be. Not miſtaking <hi>faction</hi> for <hi>faith,</hi> nor <hi>fanaticks</hi> for the <hi>faithfull;</hi> but taking ſuch to doe, by curbing their <hi>Contentious</hi> ſpirits, and countenancing thoſe that were <hi>Orthodox</hi> and Orderly, ſuch as that holy Father <hi>Athanaſius,</hi> whom he reſtored to his <hi>Biſhoprick of Alexandria,</hi> as he did alſo others to theirs<note place="margin">
+                  <hi>See</hi> Socra<g ref="char:EOLhyphen"/>tes <hi>S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eccle. Hiſt. l. 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 19<g ref="char:punc">▪</g> 20.</note> from which they had been unjuſtly ſequeſtred. And by the <hi>leading example</hi> of that good Emperour, many were in<g ref="char:EOLhyphen"/>duced to be <hi>Chriſtned;</hi> and by his <hi>Chriſtianity</hi> many were redeemed from <hi>Barbarian Slavery.</hi> Such a memorable Be<g ref="char:EOLhyphen"/>nefit, and publick good; as our good Soveraign brought with him <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o this Land, where his moſt Loyal Subjects were moſt barbarouſly enſlaved by their fellow Subjects, of all ſlaveries the moſt inſufferable. But by his moſt happy coming again to the Land, the Land is moſt happily com<g ref="char:EOLhyphen"/>ing again to it ſelf. <hi>Terra Beata,</hi> a bleſſed Land: Bleſſed in having a King; and bleſſed in having but one King; and bleſſed in having our own King; and bleſſed in having ſuch a King as our own, a King right Noble in right acce<g ref="char:EOLhyphen"/>ptation of <hi>the Son of Nobles.</hi> Now the KING of Heaven bleſſe him, and be forever bleſſed for him.</p>
+            <p>
+               <hi>And ſo let us Pray.</hi>
+            </p>
+            <div type="prayer">
+               <pb facs="tcp:64604:23"/>
+               <head>A Prayer.</head>
+               <p>Bleſſed Lord! thou haſt bleſſed us, and done great things for us, whereof we are glad. Thou haſt turned away the Captivity of the Land; and brought back the Captivity of our Nation<g ref="char:EOLhyphen"/>al Bleſſedneſſe. We deſire to bleſſe thy Name for all thy Mercies and Bleſſings; but eſpecial<g ref="char:EOLhyphen"/>ly for reſtoring our thrice Noble Soveragin <hi>Charles</hi> the Second, to the Land; and the Land unto it ſelf by him. Thou haſt given him Poſ<g ref="char:EOLhyphen"/>ſeſſion of many and many Hearts. Lord help him to hold Poſſeſſion. Thou knoweſt the Mu<g ref="char:EOLhyphen"/>tability of the Many, whoſe <hi>Placets</hi> are eaſily had, but hardly held; and whoſe humours are all for making a Darling great: but their Con<g ref="char:EOLhyphen"/>ſciences not at all, for upholding a juſt Great<g ref="char:EOLhyphen"/>neſſe. But thou ſtill and ſtill the ſame God of Love and Mercy, and Power unto him. Uphold and defend him in his juſt rights and Regalities. Make both ſorts of Independent Pride come down to Allegiance: that of the Covenant, and that of the Engagement: the Claſſical, and the Congregational. Make them both to bend
+<pb facs="tcp:64604:24"/> under Royal Authority. And keep down all ſuch <hi>Corahs,</hi> as pretend Religion, and practiſe Rebellion. Detect the Wickedneſſe of all ſuch falſaries and Impoſtours, whoſe voices are the voices of Reformation, and Canting Incanta<g ref="char:EOLhyphen"/>mentations. But their hands the hands of Vio<g ref="char:EOLhyphen"/>lence, Oppreſſion, Church-robbing, King-kil<g ref="char:EOLhyphen"/>ling, and any ſuch helliſh Devilliſme. O thou God of Truth, ſuffer not ſuch Supplanters any more to cheat the credulous Many of their Loy<g ref="char:EOLhyphen"/>alty, their Religion, their Liberty, their E<g ref="char:EOLhyphen"/>ſtates, their Conſciences. Neither ſuffer ſuch ſelf-Sainting ſons of Cruelty to have any power to touch thine Anointed any more. Enervate all their Armes of fleſh, and cloath them with their demerited ſhame; but upon himſelf let his Crown flouriſh. And bleſs him ſpiritually as well as temporally; inwardly, as well as out<g ref="char:EOLhyphen"/>wardly. Let not the Greatneſs of his Court Royal leſſen the Goodneſſe of his Court of Conſcience. Suffer not that <hi>White Hall</hi> which is in him, to be loſt in that White Hall in which he is. And let not any Feaſt be a Voider to that, which has been his Continual Feaſt. But let that Peace of Conſcience, which ſugared all his ſuf<g ref="char:EOLhyphen"/>ferings, and ſweetned all their Sharpneſſe, be
+<pb facs="tcp:64604:24"/> ſtill and for ever thy Entertainment of him. Let thy Royalty be Bleſſedneſſe to him, as his is to thy People under him. And to make us all his Obedient Subjects, make us thy faithfull Ser<g ref="char:EOLhyphen"/>vants. Help us to honour, and humbly obey him in thee, and for thee. Direct us, and all that be concerned in that great Concernment of the Land, the choice of Repreſentatives. Let all Elections tend to thy Glory, the Honour and ſafety of thine Anointed; the Peace and Pro<g ref="char:EOLhyphen"/>ſperity of this Nation, and National Church, through Jeſus Chriſt our Lord.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
